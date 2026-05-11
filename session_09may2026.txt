@@ -1,0 +1,1638 @@
+HMM Live Paper Trader started. Press Stop to end.
+
+[10:13:33] Price: Rs.769.65  buffer=1
+  Warming up 1/30...
+[10:14:03] Price: Rs.769.65  buffer=2
+  Warming up 2/30...
+[10:14:33] Price: Rs.769.42  buffer=3
+  Warming up 3/30...
+[10:15:03] Price: Rs.769.02  buffer=4
+  Warming up 4/30...
+[10:15:34] Price: Rs.769.02  buffer=5
+  Warming up 5/30...
+[10:16:04] Price: Rs.768.70  buffer=6
+  Warming up 6/30...
+[10:16:34] Price: Rs.768.70  buffer=7
+  Warming up 7/30...
+[10:17:04] Price: Rs.768.30  buffer=8
+  Warming up 8/30...
+[10:17:35] Price: Rs.768.30  buffer=9
+  Warming up 9/30...
+[10:18:05] Price: Rs.768.28  buffer=10
+  Warming up 10/30...
+[10:18:35] Price: Rs.768.28  buffer=11
+  Warming up 11/30...
+[10:19:05] Price: Rs.767.80  buffer=12
+  Warming up 12/30...
+[10:19:35] Price: Rs.767.80  buffer=13
+  Warming up 13/30...
+[10:20:06] Price: Rs.767.27  buffer=14
+  Warming up 14/30...
+[10:20:36] Price: Rs.767.27  buffer=15
+  Warming up 15/30...
+[10:21:06] Price: Rs.767.30  buffer=16
+  Warming up 16/30...
+[10:21:36] Price: Rs.767.30  buffer=17
+  Warming up 17/30...
+[10:22:07] Price: Rs.767.65  buffer=18
+  Warming up 18/30...
+[10:22:37] Price: Rs.767.65  buffer=19
+  Warming up 19/30...
+[10:23:07] Price: Rs.768.42  buffer=20
+  Warming up 20/30...
+[10:23:38] Price: Rs.768.42  buffer=21
+  Warming up 21/30...
+[10:24:08] Price: Rs.768.48  buffer=22
+  Warming up 22/30...
+[10:24:38] Price: Rs.768.48  buffer=23
+  Warming up 23/30...
+[10:25:08] Price: Rs.768.80  buffer=24
+  Warming up 24/30...
+[10:25:38] Price: Rs.768.80  buffer=25
+  Warming up 25/30...
+[10:26:08] Price: Rs.768.72  buffer=26
+  Warming up 26/30...
+[10:26:39] Price: Rs.768.72  buffer=27
+  Warming up 27/30...
+[10:27:09] Price: Rs.768.88  buffer=28
+  Warming up 28/30...
+[10:27:39] Price: Rs.768.88  buffer=29
+  Warming up 29/30...
+[10:28:09] Price: Rs.768.85  buffer=30
+  BUY  @ Rs.768.65  inv=+1  regime=Low Vol
+  SELL @ Rs.769.05  inv=+0  regime=Low Vol
+[10:28:09]  S=Rs.768.85  bid=Rs.768.65  ask=Rs.769.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00033  T=0.81  inv=+0  costs=Rs.0.25  Net P&L=Rs.+0.15
+[10:28:40] Price: Rs.768.85  buffer=31
+  BUY  @ Rs.768.65  inv=+1  regime=Low Vol
+  SELL @ Rs.769.05  inv=+0  regime=Low Vol
+[10:28:40]  S=Rs.768.85  bid=Rs.768.65  ask=Rs.769.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00033  T=0.81  inv=+0  costs=Rs.0.49  Net P&L=Rs.+0.30
+[10:48:30] Price: Rs.769.42  buffer=32
+  BUY  @ Rs.769.23  inv=+1  regime=Low Vol
+[10:48:30]  S=Rs.769.42  bid=Rs.769.23  ask=Rs.769.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00035  T=0.75  inv=+0  costs=Rs.0.52  Net P&L=Rs.+0.47
+[10:49:01] Price: Rs.769.42  buffer=33
+[10:49:01]  S=Rs.769.42  bid=Rs.769.23  ask=Rs.769.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00034  T=0.75  inv=+1  costs=Rs.0.52  Net P&L=Rs.+0.47
+[10:49:31] Price: Rs.769.42  buffer=34
+[10:49:31]  S=Rs.769.42  bid=Rs.769.23  ask=Rs.769.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00034  T=0.75  inv=+1  costs=Rs.0.52  Net P&L=Rs.+0.47
+[10:50:01] Price: Rs.769.42  buffer=35
+[10:50:01]  S=Rs.769.42  bid=Rs.769.23  ask=Rs.769.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00033  T=0.75  inv=+1  costs=Rs.0.52  Net P&L=Rs.+0.47
+[10:50:31] Price: Rs.769.42  buffer=36
+[10:50:31]  S=Rs.769.42  bid=Rs.769.23  ask=Rs.769.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00033  T=0.75  inv=+1  costs=Rs.0.52  Net P&L=Rs.+0.47
+[10:51:02] Price: Rs.769.42  buffer=37
+[10:51:02]  S=Rs.769.42  bid=Rs.769.23  ask=Rs.769.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00031  T=0.74  inv=+1  costs=Rs.0.52  Net P&L=Rs.+0.47
+[10:51:32] Price: Rs.769.75  buffer=38
+  BUY  @ Rs.769.55  inv=+2  regime=Low Vol
+[10:51:32]  S=Rs.769.75  bid=Rs.769.55  ask=Rs.769.95  regime=Low Vol  delta=Rs.0.3961  sigma=0.00032  T=0.74  inv=+1  costs=Rs.0.54  Net P&L=Rs.+0.97
+[10:52:02] Price: Rs.770.10  buffer=39
+  BUY  @ Rs.769.90  inv=+3  regime=Low Vol
+[10:52:02]  S=Rs.770.10  bid=Rs.769.90  ask=Rs.770.30  regime=Low Vol  delta=Rs.0.3961  sigma=0.00032  T=0.74  inv=+2  costs=Rs.0.57  Net P&L=Rs.+1.84
+[10:52:33] Price: Rs.770.10  buffer=40
+  BUY  @ Rs.769.90  inv=+4  regime=Low Vol
+  SELL @ Rs.770.30  inv=+3  regime=Low Vol
+[10:52:33]  S=Rs.770.10  bid=Rs.769.90  ask=Rs.770.30  regime=Low Vol  delta=Rs.0.3961  sigma=0.00032  T=0.74  inv=+3  costs=Rs.0.82  Net P&L=Rs.+1.99
+[10:53:03] Price: Rs.770.25  buffer=41
+  BUY  @ Rs.770.05  inv=+4  regime=Low Vol
+[10:53:03]  S=Rs.770.25  bid=Rs.770.05  ask=Rs.770.45  regime=Low Vol  delta=Rs.0.3961  sigma=0.00030  T=0.74  inv=+3  costs=Rs.0.84  Net P&L=Rs.+2.61
+[10:53:33] Price: Rs.770.25  buffer=42
+  BUY  @ Rs.770.05  inv=+5  regime=Low Vol
+  SELL @ Rs.770.45  inv=+4  regime=Low Vol
+[10:53:33]  S=Rs.770.25  bid=Rs.770.05  ask=Rs.770.45  regime=Low Vol  delta=Rs.0.3961  sigma=0.00030  T=0.74  inv=+4  costs=Rs.1.09  Net P&L=Rs.+2.76
+[10:54:03] Price: Rs.770.25  buffer=43
+  BUY  @ Rs.770.05  inv=+5  regime=Low Vol
+  SELL @ Rs.770.45  inv=+4  regime=Low Vol
+[10:54:03]  S=Rs.770.25  bid=Rs.770.05  ask=Rs.770.45  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.74  inv=+4  costs=Rs.1.33  Net P&L=Rs.+2.91
+[10:54:34] Price: Rs.770.25  buffer=44
+  BUY  @ Rs.770.05  inv=+5  regime=Low Vol
+  SELL @ Rs.770.45  inv=+4  regime=Low Vol
+[10:54:34]  S=Rs.770.25  bid=Rs.770.05  ask=Rs.770.45  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.74  inv=+4  costs=Rs.1.58  Net P&L=Rs.+3.06
+[10:55:04] Price: Rs.770.57  buffer=45
+  BUY  @ Rs.770.38  inv=+5  regime=Low Vol
+[10:55:04]  S=Rs.770.57  bid=Rs.770.38  ask=Rs.770.77  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.73  inv=+4  costs=Rs.1.61  Net P&L=Rs.+4.53
+[10:55:34] Price: Rs.770.57  buffer=46
+  BUY  @ Rs.770.38  inv=+6  regime=Low Vol
+  SELL @ Rs.770.77  inv=+5  regime=Low Vol
+[10:55:34]  S=Rs.770.57  bid=Rs.770.38  ask=Rs.770.77  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.73  inv=+5  costs=Rs.1.85  Net P&L=Rs.+4.69
+[10:56:04] Price: Rs.770.65  buffer=47
+  BUY  @ Rs.770.45  inv=+6  regime=Low Vol
+[10:56:04]  S=Rs.770.65  bid=Rs.770.45  ask=Rs.770.85  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.73  inv=+5  costs=Rs.1.88  Net P&L=Rs.+5.23
+[10:56:34] Price: Rs.770.65  buffer=48
+[10:56:34]  S=Rs.770.65  bid=Rs.770.45  ask=Rs.770.85  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.73  inv=+6  costs=Rs.1.88  Net P&L=Rs.+5.23
+[10:57:04] Price: Rs.770.40  buffer=49
+  SELL @ Rs.770.60  inv=+5  regime=Low Vol
+[10:57:04]  S=Rs.770.40  bid=Rs.770.20  ask=Rs.770.60  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.73  inv=+6  costs=Rs.2.10  Net P&L=Rs.+3.71
+[10:57:35] Price: Rs.770.40  buffer=50
+  BUY  @ Rs.770.20  inv=+6  regime=Low Vol
+  SELL @ Rs.770.60  inv=+5  regime=Low Vol
+[10:57:35]  S=Rs.770.40  bid=Rs.770.20  ask=Rs.770.60  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.73  inv=+5  costs=Rs.2.34  Net P&L=Rs.+3.86
+[10:58:05] Price: Rs.770.35  buffer=51
+  BUY  @ Rs.770.15  inv=+6  regime=Low Vol
+  SELL @ Rs.770.55  inv=+5  regime=Low Vol
+[10:58:05]  S=Rs.770.35  bid=Rs.770.15  ask=Rs.770.55  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.73  inv=+5  costs=Rs.2.59  Net P&L=Rs.+3.76
+[10:58:35] Price: Rs.770.35  buffer=52
+[10:58:35]  S=Rs.770.35  bid=Rs.770.15  ask=Rs.770.55  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.73  inv=+5  costs=Rs.2.59  Net P&L=Rs.+3.76
+[10:59:05] Price: Rs.770.35  buffer=53
+[10:59:05]  S=Rs.770.35  bid=Rs.770.15  ask=Rs.770.55  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.72  inv=+5  costs=Rs.2.59  Net P&L=Rs.+3.76
+[10:59:35] Price: Rs.770.30  buffer=54
+[10:59:35]  S=Rs.770.30  bid=Rs.770.10  ask=Rs.770.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.72  inv=+5  costs=Rs.2.59  Net P&L=Rs.+3.51
+[11:00:06] Price: Rs.769.98  buffer=55
+  SELL @ Rs.770.17  inv=+4  regime=Low Vol
+[11:00:06]  S=Rs.769.98  bid=Rs.769.78  ask=Rs.770.17  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.72  inv=+5  costs=Rs.2.81  Net P&L=Rs.+1.86
+[11:00:36] Price: Rs.769.98  buffer=56
+[11:00:36]  S=Rs.769.98  bid=Rs.769.78  ask=Rs.770.17  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.72  inv=+4  costs=Rs.2.81  Net P&L=Rs.+1.86
+[11:01:06] Price: Rs.770.00  buffer=57
+  BUY  @ Rs.769.80  inv=+5  regime=Low Vol
+[11:01:06]  S=Rs.770.00  bid=Rs.769.80  ask=Rs.770.20  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.72  inv=+4  costs=Rs.2.84  Net P&L=Rs.+2.14
+[11:01:36] Price: Rs.770.00  buffer=58
+[11:01:36]  S=Rs.770.00  bid=Rs.769.80  ask=Rs.770.20  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.72  inv=+5  costs=Rs.2.84  Net P&L=Rs.+2.14
+[11:02:06] Price: Rs.770.00  buffer=59
+[11:02:06]  S=Rs.770.00  bid=Rs.769.80  ask=Rs.770.20  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.71  inv=+5  costs=Rs.2.84  Net P&L=Rs.+2.14
+[11:02:37] Price: Rs.770.00  buffer=60
+[11:02:37]  S=Rs.770.00  bid=Rs.769.80  ask=Rs.770.20  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.71  inv=+5  costs=Rs.2.84  Net P&L=Rs.+2.14
+[11:03:07] Price: Rs.769.70  buffer=61
+  SELL @ Rs.769.90  inv=+4  regime=Low Vol
+[11:03:07]  S=Rs.769.70  bid=Rs.769.50  ask=Rs.769.90  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.71  inv=+5  costs=Rs.3.05  Net P&L=Rs.+0.62
+[11:03:38] Price: Rs.769.70  buffer=62
+  BUY  @ Rs.769.50  inv=+5  regime=Low Vol
+  SELL @ Rs.769.90  inv=+4  regime=Low Vol
+[11:03:38]  S=Rs.769.70  bid=Rs.769.50  ask=Rs.769.90  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.71  inv=+4  costs=Rs.3.30  Net P&L=Rs.+0.77
+[11:04:08] Price: Rs.769.43  buffer=63
+  SELL @ Rs.769.62  inv=+3  regime=Low Vol
+[11:04:08]  S=Rs.769.43  bid=Rs.769.23  ask=Rs.769.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.71  inv=+4  costs=Rs.3.52  Net P&L=Rs.-0.35
+[11:04:38] Price: Rs.769.43  buffer=64
+  BUY  @ Rs.769.23  inv=+4  regime=Low Vol
+  SELL @ Rs.769.62  inv=+3  regime=Low Vol
+[11:04:38]  S=Rs.769.43  bid=Rs.769.23  ask=Rs.769.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.71  inv=+3  costs=Rs.3.76  Net P&L=Rs.-0.20
+[11:05:08] Price: Rs.769.68  buffer=65
+  BUY  @ Rs.769.48  inv=+4  regime=Low Vol
+[11:05:08]  S=Rs.769.68  bid=Rs.769.48  ask=Rs.769.87  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.71  inv=+3  costs=Rs.3.79  Net P&L=Rs.+0.72
+[11:05:39] Price: Rs.769.68  buffer=66
+  BUY  @ Rs.769.48  inv=+5  regime=Low Vol
+  SELL @ Rs.769.87  inv=+4  regime=Low Vol
+[11:05:39]  S=Rs.769.68  bid=Rs.769.48  ask=Rs.769.87  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.71  inv=+4  costs=Rs.4.04  Net P&L=Rs.+0.87
+[11:06:09] Price: Rs.769.95  buffer=67
+  BUY  @ Rs.769.75  inv=+5  regime=Low Vol
+[11:06:09]  S=Rs.769.95  bid=Rs.769.75  ask=Rs.770.15  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.70  inv=+4  costs=Rs.4.06  Net P&L=Rs.+2.14
+[11:06:39] Price: Rs.769.95  buffer=68
+  BUY  @ Rs.769.75  inv=+6  regime=Low Vol
+  SELL @ Rs.770.15  inv=+5  regime=Low Vol
+[11:06:39]  S=Rs.769.95  bid=Rs.769.75  ask=Rs.770.15  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.70  inv=+5  costs=Rs.4.31  Net P&L=Rs.+2.29
+[11:07:09] Price: Rs.769.90  buffer=69
+  BUY  @ Rs.769.70  inv=+6  regime=Low Vol
+  SELL @ Rs.770.10  inv=+5  regime=Low Vol
+[11:07:09]  S=Rs.769.90  bid=Rs.769.70  ask=Rs.770.10  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.70  inv=+5  costs=Rs.4.55  Net P&L=Rs.+2.19
+[11:07:39] Price: Rs.769.90  buffer=70
+[11:07:39]  S=Rs.769.90  bid=Rs.769.70  ask=Rs.770.10  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.70  inv=+5  costs=Rs.4.55  Net P&L=Rs.+2.19
+[11:08:09] Price: Rs.769.88  buffer=71
+[11:08:09]  S=Rs.769.88  bid=Rs.769.68  ask=Rs.770.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.70  inv=+5  costs=Rs.4.55  Net P&L=Rs.+2.06
+[11:08:39] Price: Rs.769.88  buffer=72
+[11:08:39]  S=Rs.769.88  bid=Rs.769.68  ask=Rs.770.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.70  inv=+5  costs=Rs.4.55  Net P&L=Rs.+2.06
+[11:09:10] Price: Rs.769.73  buffer=73
+  SELL @ Rs.769.92  inv=+4  regime=Low Vol
+[11:09:10]  S=Rs.769.73  bid=Rs.769.53  ask=Rs.769.92  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.70  inv=+5  costs=Rs.4.77  Net P&L=Rs.+1.29
+[11:09:40] Price: Rs.769.73  buffer=74
+  BUY  @ Rs.769.53  inv=+5  regime=Low Vol
+  SELL @ Rs.769.92  inv=+4  regime=Low Vol
+[11:09:40]  S=Rs.769.73  bid=Rs.769.53  ask=Rs.769.92  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.70  inv=+4  costs=Rs.5.02  Net P&L=Rs.+1.44
+[11:10:10] Price: Rs.769.40  buffer=75
+  SELL @ Rs.769.60  inv=+3  regime=Low Vol
+[11:10:10]  S=Rs.769.40  bid=Rs.769.20  ask=Rs.769.60  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.69  inv=+4  costs=Rs.5.24  Net P&L=Rs.+0.12
+[11:10:40] Price: Rs.769.40  buffer=76
+[11:10:40]  S=Rs.769.40  bid=Rs.769.20  ask=Rs.769.60  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.69  inv=+3  costs=Rs.5.24  Net P&L=Rs.+0.12
+[11:11:10] Price: Rs.769.62  buffer=77
+  BUY  @ Rs.769.43  inv=+4  regime=Low Vol
+[11:11:10]  S=Rs.769.62  bid=Rs.769.43  ask=Rs.769.82  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.69  inv=+3  costs=Rs.5.26  Net P&L=Rs.+0.97
+[11:11:41] Price: Rs.769.62  buffer=78
+[11:11:41]  S=Rs.769.62  bid=Rs.769.43  ask=Rs.769.82  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.69  inv=+4  costs=Rs.5.26  Net P&L=Rs.+0.97
+[11:12:11] Price: Rs.769.83  buffer=79
+  BUY  @ Rs.769.63  inv=+5  regime=Low Vol
+[11:12:11]  S=Rs.769.83  bid=Rs.769.63  ask=Rs.770.02  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.69  inv=+4  costs=Rs.5.29  Net P&L=Rs.+1.94
+[11:12:41] Price: Rs.769.83  buffer=80
+[11:12:41]  S=Rs.769.83  bid=Rs.769.63  ask=Rs.770.02  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.69  inv=+5  costs=Rs.5.29  Net P&L=Rs.+1.94
+[11:13:11] Price: Rs.769.85  buffer=81
+[11:13:11]  S=Rs.769.85  bid=Rs.769.65  ask=Rs.770.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.69  inv=+5  costs=Rs.5.29  Net P&L=Rs.+2.07
+[11:13:41] Price: Rs.769.85  buffer=82
+[11:13:41]  S=Rs.769.85  bid=Rs.769.65  ask=Rs.770.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.69  inv=+5  costs=Rs.5.29  Net P&L=Rs.+2.07
+[11:14:12] Price: Rs.769.88  buffer=83
+[11:14:12]  S=Rs.769.88  bid=Rs.769.68  ask=Rs.770.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.68  inv=+5  costs=Rs.5.29  Net P&L=Rs.+2.19
+[11:14:42] Price: Rs.769.88  buffer=84
+[11:14:42]  S=Rs.769.88  bid=Rs.769.68  ask=Rs.770.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.68  inv=+5  costs=Rs.5.29  Net P&L=Rs.+2.19
+[11:15:12] Price: Rs.769.98  buffer=85
+  BUY  @ Rs.769.78  inv=+6  regime=Low Vol
+[11:15:12]  S=Rs.769.98  bid=Rs.769.78  ask=Rs.770.17  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.68  inv=+5  costs=Rs.5.32  Net P&L=Rs.+2.86
+[11:15:42] Price: Rs.769.98  buffer=86
+[11:15:42]  S=Rs.769.98  bid=Rs.769.78  ask=Rs.770.17  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.68  inv=+6  costs=Rs.5.32  Net P&L=Rs.+2.86
+[11:16:12] Price: Rs.770.10  buffer=87
+[11:16:12]  S=Rs.770.10  bid=Rs.769.90  ask=Rs.770.30  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.68  inv=+6  costs=Rs.5.32  Net P&L=Rs.+3.61
+[11:16:43] Price: Rs.770.10  buffer=88
+  BUY  @ Rs.769.90  inv=+7  regime=Low Vol
+  SELL @ Rs.770.30  inv=+6  regime=Low Vol
+[11:16:43]  S=Rs.770.10  bid=Rs.769.90  ask=Rs.770.30  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.68  inv=+6  costs=Rs.5.56  Net P&L=Rs.+3.76
+[11:17:13] Price: Rs.770.20  buffer=89
+  BUY  @ Rs.770.00  inv=+7  regime=Low Vol
+[11:17:13]  S=Rs.770.20  bid=Rs.770.00  ask=Rs.770.40  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.67  inv=+6  costs=Rs.5.59  Net P&L=Rs.+4.53
+[11:17:43] Price: Rs.770.20  buffer=90
+  BUY  @ Rs.770.00  inv=+8  regime=Low Vol
+  SELL @ Rs.770.40  inv=+7  regime=Low Vol
+[11:17:43]  S=Rs.770.20  bid=Rs.770.00  ask=Rs.770.40  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.67  inv=+7  costs=Rs.5.84  Net P&L=Rs.+4.68
+[11:18:13] Price: Rs.770.48  buffer=91
+  BUY  @ Rs.770.28  inv=+8  regime=Low Vol
+[11:18:13]  S=Rs.770.48  bid=Rs.770.28  ask=Rs.770.67  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.67  inv=+7  costs=Rs.5.86  Net P&L=Rs.+6.78
+[11:18:44] Price: Rs.770.48  buffer=92
+  BUY  @ Rs.770.28  inv=+9  regime=Low Vol
+  SELL @ Rs.770.67  inv=+8  regime=Low Vol
+[11:18:44]  S=Rs.770.48  bid=Rs.770.28  ask=Rs.770.67  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.67  inv=+8  costs=Rs.6.11  Net P&L=Rs.+6.93
+[11:19:14] Price: Rs.770.30  buffer=93
+  BUY  @ Rs.770.10  inv=+9  regime=Low Vol
+  SELL @ Rs.770.50  inv=+8  regime=Low Vol
+[11:19:14]  S=Rs.770.30  bid=Rs.770.10  ask=Rs.770.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.67  inv=+8  costs=Rs.6.35  Net P&L=Rs.+5.68
+[11:19:44] Price: Rs.770.30  buffer=94
+  BUY  @ Rs.770.10  inv=+9  regime=Low Vol
+  SELL @ Rs.770.50  inv=+8  regime=Low Vol
+[11:19:44]  S=Rs.770.30  bid=Rs.770.10  ask=Rs.770.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.67  inv=+8  costs=Rs.6.60  Net P&L=Rs.+5.83
+[11:20:14] Price: Rs.770.15  buffer=95
+  BUY  @ Rs.769.95  inv=+9  regime=Low Vol
+  SELL @ Rs.770.35  inv=+8  regime=Low Vol
+[11:20:14]  S=Rs.770.15  bid=Rs.769.95  ask=Rs.770.35  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.67  inv=+8  costs=Rs.6.85  Net P&L=Rs.+4.78
+[11:20:44] Price: Rs.770.15  buffer=96
+  BUY  @ Rs.769.95  inv=+9  regime=Low Vol
+  SELL @ Rs.770.35  inv=+8  regime=Low Vol
+[11:20:44]  S=Rs.770.15  bid=Rs.769.95  ask=Rs.770.35  regime=Low Vol  delta=Rs.0.3961  sigma=0.00015  T=0.67  inv=+8  costs=Rs.7.09  Net P&L=Rs.+4.93
+[11:21:15] Price: Rs.770.65  buffer=97
+  BUY  @ Rs.770.45  inv=+9  regime=Low Vol
+[11:21:15]  S=Rs.770.65  bid=Rs.770.45  ask=Rs.770.85  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.66  inv=+8  costs=Rs.7.12  Net P&L=Rs.+9.10
+[11:21:45] Price: Rs.770.65  buffer=98
+  BUY  @ Rs.770.45  inv=+10  regime=Low Vol
+  SELL @ Rs.770.85  inv=+9  regime=Low Vol
+[11:21:45]  S=Rs.770.65  bid=Rs.770.45  ask=Rs.770.85  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.66  inv=+9  costs=Rs.7.36  Net P&L=Rs.+9.25
+[11:22:15] Price: Rs.771.45  buffer=99
+  BUY  @ Rs.771.25  inv=+10  regime=Low Vol
+[11:22:15]  S=Rs.771.45  bid=Rs.771.25  ask=Rs.771.65  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.66  inv=+9  costs=Rs.7.39  Net P&L=Rs.+16.63
+[11:22:45] Price: Rs.771.45  buffer=100
+  SELL @ Rs.771.65  inv=+9  regime=Low Vol
+[11:22:45]  S=Rs.771.45  bid=Rs.771.25  ask=Rs.771.65  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.66  inv=+10  costs=Rs.7.61  Net P&L=Rs.+16.60
+[11:23:16] Price: Rs.770.83  buffer=101
+  SELL @ Rs.771.02  inv=+8  regime=Low Vol
+[11:23:16]  S=Rs.770.83  bid=Rs.770.63  ask=Rs.771.02  regime=Low Vol  delta=Rs.0.3961  sigma=0.00031  T=0.66  inv=+9  costs=Rs.7.83  Net P&L=Rs.+10.96
+[11:23:46] Price: Rs.770.83  buffer=102
+  BUY  @ Rs.770.63  inv=+9  regime=Low Vol
+  SELL @ Rs.771.02  inv=+8  regime=Low Vol
+[11:23:46]  S=Rs.770.83  bid=Rs.770.63  ask=Rs.771.02  regime=Low Vol  delta=Rs.0.3961  sigma=0.00030  T=0.66  inv=+8  costs=Rs.8.08  Net P&L=Rs.+11.11
+[11:24:16] Price: Rs.770.75  buffer=103
+  BUY  @ Rs.770.55  inv=+9  regime=Low Vol
+  SELL @ Rs.770.95  inv=+8  regime=Low Vol
+[11:24:16]  S=Rs.770.75  bid=Rs.770.55  ask=Rs.770.95  regime=Low Vol  delta=Rs.0.3961  sigma=0.00031  T=0.66  inv=+8  costs=Rs.8.32  Net P&L=Rs.+10.66
+[11:24:46] Price: Rs.770.75  buffer=104
+  BUY  @ Rs.770.55  inv=+9  regime=Low Vol
+  SELL @ Rs.770.95  inv=+8  regime=Low Vol
+[11:24:46]  S=Rs.770.75  bid=Rs.770.55  ask=Rs.770.95  regime=Low Vol  delta=Rs.0.3961  sigma=0.00029  T=0.66  inv=+8  costs=Rs.8.57  Net P&L=Rs.+10.81
+[11:25:17] Price: Rs.770.40  buffer=105
+  SELL @ Rs.770.60  inv=+7  regime=Low Vol
+[11:25:17]  S=Rs.770.40  bid=Rs.770.20  ask=Rs.770.60  regime=Low Vol  delta=Rs.0.3961  sigma=0.00031  T=0.65  inv=+8  costs=Rs.8.79  Net P&L=Rs.+7.99
+[11:25:47] Price: Rs.770.40  buffer=106
+  BUY  @ Rs.770.20  inv=+8  regime=Low Vol
+  SELL @ Rs.770.60  inv=+7  regime=Low Vol
+[11:25:47]  S=Rs.770.40  bid=Rs.770.20  ask=Rs.770.60  regime=Low Vol  delta=Rs.0.3961  sigma=0.00030  T=0.65  inv=+7  costs=Rs.9.03  Net P&L=Rs.+8.14
+[11:26:17] Price: Rs.770.05  buffer=107
+  SELL @ Rs.770.25  inv=+6  regime=Low Vol
+[11:26:17]  S=Rs.770.05  bid=Rs.769.85  ask=Rs.770.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00032  T=0.65  inv=+7  costs=Rs.9.25  Net P&L=Rs.+5.67
+[11:26:47] Price: Rs.770.05  buffer=108
+  BUY  @ Rs.769.85  inv=+7  regime=Low Vol
+  SELL @ Rs.770.25  inv=+6  regime=Low Vol
+[11:26:47]  S=Rs.770.05  bid=Rs.769.85  ask=Rs.770.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00031  T=0.65  inv=+6  costs=Rs.9.50  Net P&L=Rs.+5.82
+[11:27:17] Price: Rs.769.80  buffer=109
+  SELL @ Rs.770.00  inv=+5  regime=Low Vol
+[11:27:17]  S=Rs.769.80  bid=Rs.769.60  ask=Rs.770.00  regime=Low Vol  delta=Rs.0.3961  sigma=0.00032  T=0.65  inv=+6  costs=Rs.9.72  Net P&L=Rs.+4.30
+[11:27:48] Price: Rs.769.80  buffer=110
+  BUY  @ Rs.769.60  inv=+6  regime=Low Vol
+  SELL @ Rs.770.00  inv=+5  regime=Low Vol
+[11:27:48]  S=Rs.769.80  bid=Rs.769.60  ask=Rs.770.00  regime=Low Vol  delta=Rs.0.3961  sigma=0.00032  T=0.65  inv=+5  costs=Rs.9.96  Net P&L=Rs.+4.45
+[11:28:18] Price: Rs.769.80  buffer=111
+  BUY  @ Rs.769.60  inv=+6  regime=Low Vol
+  SELL @ Rs.770.00  inv=+5  regime=Low Vol
+[11:28:18]  S=Rs.769.80  bid=Rs.769.60  ask=Rs.770.00  regime=Low Vol  delta=Rs.0.3961  sigma=0.00032  T=0.65  inv=+5  costs=Rs.10.21  Net P&L=Rs.+4.60
+[11:28:48] Price: Rs.769.80  buffer=112
+  BUY  @ Rs.769.60  inv=+6  regime=Low Vol
+  SELL @ Rs.770.00  inv=+5  regime=Low Vol
+[11:28:48]  S=Rs.769.80  bid=Rs.769.60  ask=Rs.770.00  regime=Low Vol  delta=Rs.0.3961  sigma=0.00032  T=0.65  inv=+5  costs=Rs.10.45  Net P&L=Rs.+4.75
+[11:29:18] Price: Rs.769.65  buffer=113
+  SELL @ Rs.769.85  inv=+4  regime=Low Vol
+[11:29:18]  S=Rs.769.65  bid=Rs.769.45  ask=Rs.769.85  regime=Low Vol  delta=Rs.0.3961  sigma=0.00032  T=0.64  inv=+5  costs=Rs.10.67  Net P&L=Rs.+3.98
+[11:29:49] Price: Rs.769.65  buffer=114
+[11:29:49]  S=Rs.769.65  bid=Rs.769.45  ask=Rs.769.85  regime=Low Vol  delta=Rs.0.3961  sigma=0.00032  T=0.64  inv=+4  costs=Rs.10.67  Net P&L=Rs.+3.98
+[11:30:19] Price: Rs.769.85  buffer=115
+  BUY  @ Rs.769.65  inv=+5  regime=Low Vol
+[11:30:19]  S=Rs.769.85  bid=Rs.769.65  ask=Rs.770.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00032  T=0.64  inv=+4  costs=Rs.10.70  Net P&L=Rs.+4.95
+[11:30:49] Price: Rs.769.85  buffer=116
+  BUY  @ Rs.769.65  inv=+6  regime=Low Vol
+  SELL @ Rs.770.05  inv=+5  regime=Low Vol
+[11:30:49]  S=Rs.769.85  bid=Rs.769.65  ask=Rs.770.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00032  T=0.64  inv=+5  costs=Rs.10.94  Net P&L=Rs.+5.10
+[11:31:19] Price: Rs.769.80  buffer=117
+  BUY  @ Rs.769.60  inv=+6  regime=Low Vol
+  SELL @ Rs.770.00  inv=+5  regime=Low Vol
+[11:31:19]  S=Rs.769.80  bid=Rs.769.60  ask=Rs.770.00  regime=Low Vol  delta=Rs.0.3961  sigma=0.00032  T=0.64  inv=+5  costs=Rs.11.19  Net P&L=Rs.+5.00
+[11:31:50] Price: Rs.769.80  buffer=118
+[11:31:50]  S=Rs.769.80  bid=Rs.769.60  ask=Rs.770.00  regime=Low Vol  delta=Rs.0.3961  sigma=0.00032  T=0.64  inv=+5  costs=Rs.11.19  Net P&L=Rs.+5.00
+[11:32:20] Price: Rs.769.88  buffer=119
+  BUY  @ Rs.769.68  inv=+6  regime=Low Vol
+[11:32:20]  S=Rs.769.88  bid=Rs.769.68  ask=Rs.770.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00032  T=0.63  inv=+5  costs=Rs.11.22  Net P&L=Rs.+5.54
+[11:32:50] Price: Rs.769.88  buffer=120
+  BUY  @ Rs.769.68  inv=+7  regime=Low Vol
+  SELL @ Rs.770.07  inv=+6  regime=Low Vol
+[11:32:50]  S=Rs.769.88  bid=Rs.769.68  ask=Rs.770.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00031  T=0.63  inv=+6  costs=Rs.11.46  Net P&L=Rs.+5.69
+[11:33:20] Price: Rs.770.35  buffer=121
+  BUY  @ Rs.770.15  inv=+7  regime=Low Vol
+[11:33:20]  S=Rs.770.35  bid=Rs.770.15  ask=Rs.770.55  regime=Low Vol  delta=Rs.0.3961  sigma=0.00034  T=0.63  inv=+6  costs=Rs.11.49  Net P&L=Rs.+8.72
+[11:33:50] Price: Rs.770.35  buffer=122
+  BUY  @ Rs.770.15  inv=+8  regime=Low Vol
+  SELL @ Rs.770.55  inv=+7  regime=Low Vol
+[11:33:50]  S=Rs.770.35  bid=Rs.770.15  ask=Rs.770.55  regime=Low Vol  delta=Rs.0.3961  sigma=0.00033  T=0.63  inv=+7  costs=Rs.11.73  Net P&L=Rs.+8.87
+[11:34:21] Price: Rs.769.92  buffer=123
+  SELL @ Rs.770.12  inv=+6  regime=Low Vol
+[11:34:21]  S=Rs.769.92  bid=Rs.769.73  ask=Rs.770.12  regime=Low Vol  delta=Rs.0.3961  sigma=0.00035  T=0.63  inv=+7  costs=Rs.11.95  Net P&L=Rs.+5.87
+[11:34:51] Price: Rs.769.92  buffer=124
+[11:34:51]  S=Rs.769.92  bid=Rs.769.73  ask=Rs.770.12  regime=Low Vol  delta=Rs.0.3961  sigma=0.00035  T=0.63  inv=+6  costs=Rs.11.95  Net P&L=Rs.+5.87
+[11:35:21] Price: Rs.770.10  buffer=125
+  BUY  @ Rs.769.90  inv=+7  regime=Low Vol
+[11:35:21]  S=Rs.770.10  bid=Rs.769.90  ask=Rs.770.30  regime=Low Vol  delta=Rs.0.3961  sigma=0.00035  T=0.63  inv=+6  costs=Rs.11.98  Net P&L=Rs.+7.09
+[11:35:51] Price: Rs.770.10  buffer=126
+  BUY  @ Rs.769.90  inv=+8  regime=Low Vol
+  SELL @ Rs.770.30  inv=+7  regime=Low Vol
+[11:35:51]  S=Rs.770.10  bid=Rs.769.90  ask=Rs.770.30  regime=Low Vol  delta=Rs.0.3961  sigma=0.00033  T=0.63  inv=+7  costs=Rs.12.23  Net P&L=Rs.+7.24
+[11:36:21] Price: Rs.770.30  buffer=127
+  BUY  @ Rs.770.10  inv=+8  regime=Low Vol
+[11:36:21]  S=Rs.770.30  bid=Rs.770.10  ask=Rs.770.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00033  T=0.62  inv=+7  costs=Rs.12.25  Net P&L=Rs.+8.81
+[11:36:52] Price: Rs.770.30  buffer=128
+  BUY  @ Rs.770.10  inv=+9  regime=Low Vol
+  SELL @ Rs.770.50  inv=+8  regime=Low Vol
+[11:36:52]  S=Rs.770.30  bid=Rs.770.10  ask=Rs.770.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.62  inv=+8  costs=Rs.12.50  Net P&L=Rs.+8.96
+[11:40:21] Price: Rs.770.52  buffer=130
+[11:40:21]  S=Rs.770.52  bid=Rs.770.33  ask=Rs.770.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00023  T=0.61  inv=+9  costs=Rs.12.52  Net P&L=Rs.+10.96
+[11:40:52] Price: Rs.770.52  buffer=131
+  BUY  @ Rs.770.33  inv=+10  regime=Low Vol
+  SELL @ Rs.770.72  inv=+9  regime=Low Vol
+[11:40:52]  S=Rs.770.52  bid=Rs.770.33  ask=Rs.770.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00023  T=0.61  inv=+9  costs=Rs.12.77  Net P&L=Rs.+11.11
+[11:41:22] Price: Rs.770.38  buffer=132
+  SELL @ Rs.770.57  inv=+8  regime=Low Vol
+[11:41:22]  S=Rs.770.38  bid=Rs.770.18  ask=Rs.770.57  regime=Low Vol  delta=Rs.0.3961  sigma=0.00023  T=0.61  inv=+9  costs=Rs.12.99  Net P&L=Rs.+9.74
+[11:41:52] Price: Rs.770.38  buffer=133
+  BUY  @ Rs.770.18  inv=+9  regime=Low Vol
+  SELL @ Rs.770.57  inv=+8  regime=Low Vol
+[11:41:52]  S=Rs.770.38  bid=Rs.770.18  ask=Rs.770.57  regime=Low Vol  delta=Rs.0.3961  sigma=0.00023  T=0.61  inv=+8  costs=Rs.13.24  Net P&L=Rs.+9.89
+[11:42:22] Price: Rs.770.82  buffer=134
+  BUY  @ Rs.770.63  inv=+9  regime=Low Vol
+[11:42:22]  S=Rs.770.82  bid=Rs.770.63  ask=Rs.771.02  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.61  inv=+8  costs=Rs.13.26  Net P&L=Rs.+13.66
+[11:42:52] Price: Rs.770.82  buffer=135
+  BUY  @ Rs.770.63  inv=+10  regime=Low Vol
+  SELL @ Rs.771.02  inv=+9  regime=Low Vol
+[11:42:52]  S=Rs.770.82  bid=Rs.770.63  ask=Rs.771.02  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.61  inv=+9  costs=Rs.13.51  Net P&L=Rs.+13.81
+[11:43:22] Price: Rs.770.98  buffer=136
+  BUY  @ Rs.770.78  inv=+10  regime=Low Vol
+  SELL @ Rs.771.17  inv=+9  regime=Low Vol
+[11:43:22]  S=Rs.770.98  bid=Rs.770.78  ask=Rs.771.17  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.61  inv=+9  costs=Rs.13.75  Net P&L=Rs.+15.31
+[11:43:53] Price: Rs.770.98  buffer=137
+  BUY  @ Rs.770.78  inv=+10  regime=Low Vol
+  SELL @ Rs.771.17  inv=+9  regime=Low Vol
+[11:43:53]  S=Rs.770.98  bid=Rs.770.78  ask=Rs.771.17  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.61  inv=+9  costs=Rs.14.00  Net P&L=Rs.+15.46
+[11:44:23] Price: Rs.770.75  buffer=138
+  SELL @ Rs.770.95  inv=+8  regime=Low Vol
+[11:44:23]  S=Rs.770.75  bid=Rs.770.55  ask=Rs.770.95  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.60  inv=+9  costs=Rs.14.22  Net P&L=Rs.+13.42
+[11:44:53] Price: Rs.770.75  buffer=139
+[11:44:53]  S=Rs.770.75  bid=Rs.770.55  ask=Rs.770.95  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.60  inv=+8  costs=Rs.14.22  Net P&L=Rs.+13.42
+[11:45:23] Price: Rs.770.67  buffer=140
+  SELL @ Rs.770.87  inv=+7  regime=Low Vol
+[11:45:23]  S=Rs.770.67  bid=Rs.770.48  ask=Rs.770.87  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.60  inv=+8  costs=Rs.14.44  Net P&L=Rs.+12.79
+[11:45:54] Price: Rs.770.67  buffer=141
+[11:45:54]  S=Rs.770.67  bid=Rs.770.48  ask=Rs.770.87  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.60  inv=+7  costs=Rs.14.44  Net P&L=Rs.+12.79
+[11:46:24] Price: Rs.770.85  buffer=142
+  BUY  @ Rs.770.65  inv=+8  regime=Low Vol
+[11:46:24]  S=Rs.770.85  bid=Rs.770.65  ask=Rs.771.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.60  inv=+7  costs=Rs.14.46  Net P&L=Rs.+14.19
+[11:46:54] Price: Rs.770.85  buffer=143
+[11:46:54]  S=Rs.770.85  bid=Rs.770.65  ask=Rs.771.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.60  inv=+8  costs=Rs.14.46  Net P&L=Rs.+14.19
+[11:47:24] Price: Rs.770.52  buffer=144
+  SELL @ Rs.770.72  inv=+7  regime=Low Vol
+[11:47:24]  S=Rs.770.52  bid=Rs.770.33  ask=Rs.770.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00023  T=0.59  inv=+8  costs=Rs.14.68  Net P&L=Rs.+11.57
+[11:47:55] Price: Rs.770.52  buffer=145
+  BUY  @ Rs.770.33  inv=+8  regime=Low Vol
+  SELL @ Rs.770.72  inv=+7  regime=Low Vol
+[11:47:55]  S=Rs.770.52  bid=Rs.770.33  ask=Rs.770.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00023  T=0.59  inv=+7  costs=Rs.14.93  Net P&L=Rs.+11.72
+[11:48:25] Price: Rs.769.95  buffer=146
+  SELL @ Rs.770.15  inv=+6  regime=Low Vol
+[11:48:25]  S=Rs.769.95  bid=Rs.769.75  ask=Rs.770.15  regime=Low Vol  delta=Rs.0.3961  sigma=0.00027  T=0.59  inv=+7  costs=Rs.15.15  Net P&L=Rs.+7.67
+[11:48:55] Price: Rs.769.95  buffer=147
+  BUY  @ Rs.769.75  inv=+7  regime=Low Vol
+  SELL @ Rs.770.15  inv=+6  regime=Low Vol
+[11:48:55]  S=Rs.769.95  bid=Rs.769.75  ask=Rs.770.15  regime=Low Vol  delta=Rs.0.3961  sigma=0.00027  T=0.59  inv=+6  costs=Rs.15.39  Net P&L=Rs.+7.82
+[11:49:25] Price: Rs.769.77  buffer=148
+  SELL @ Rs.769.97  inv=+5  regime=Low Vol
+[11:49:25]  S=Rs.769.77  bid=Rs.769.58  ask=Rs.769.97  regime=Low Vol  delta=Rs.0.3961  sigma=0.00028  T=0.59  inv=+6  costs=Rs.15.61  Net P&L=Rs.+6.75
+[11:49:55] Price: Rs.769.77  buffer=149
+[11:49:55]  S=Rs.769.77  bid=Rs.769.58  ask=Rs.769.97  regime=Low Vol  delta=Rs.0.3961  sigma=0.00028  T=0.59  inv=+5  costs=Rs.15.61  Net P&L=Rs.+6.75
+[11:50:25] Price: Rs.769.77  buffer=150
+[11:50:25]  S=Rs.769.77  bid=Rs.769.58  ask=Rs.769.97  regime=Low Vol  delta=Rs.0.3961  sigma=0.00025  T=0.59  inv=+5  costs=Rs.15.61  Net P&L=Rs.+6.75
+[11:50:56] Price: Rs.769.77  buffer=151
+[11:50:56]  S=Rs.769.77  bid=Rs.769.58  ask=Rs.769.97  regime=Low Vol  delta=Rs.0.3961  sigma=0.00025  T=0.59  inv=+5  costs=Rs.15.61  Net P&L=Rs.+6.75
+[11:51:26] Price: Rs.769.50  buffer=152
+  SELL @ Rs.769.70  inv=+4  regime=Low Vol
+[11:51:26]  S=Rs.769.50  bid=Rs.769.30  ask=Rs.769.70  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.58  inv=+5  costs=Rs.15.83  Net P&L=Rs.+5.36
+[11:51:56] Price: Rs.769.50  buffer=153
+  BUY  @ Rs.769.30  inv=+5  regime=Low Vol
+  SELL @ Rs.769.70  inv=+4  regime=Low Vol
+[11:51:56]  S=Rs.769.50  bid=Rs.769.30  ask=Rs.769.70  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.58  inv=+4  costs=Rs.16.08  Net P&L=Rs.+5.51
+[11:52:26] Price: Rs.769.27  buffer=154
+  SELL @ Rs.769.47  inv=+3  regime=Low Vol
+[11:52:26]  S=Rs.769.27  bid=Rs.769.08  ask=Rs.769.47  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.58  inv=+4  costs=Rs.16.30  Net P&L=Rs.+4.59
+[11:52:56] Price: Rs.769.27  buffer=155
+  BUY  @ Rs.769.08  inv=+4  regime=Low Vol
+  SELL @ Rs.769.47  inv=+3  regime=Low Vol
+[11:52:56]  S=Rs.769.27  bid=Rs.769.08  ask=Rs.769.47  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.58  inv=+3  costs=Rs.16.54  Net P&L=Rs.+4.74
+[11:53:26] Price: Rs.769.27  buffer=156
+  BUY  @ Rs.769.08  inv=+4  regime=Low Vol
+  SELL @ Rs.769.47  inv=+3  regime=Low Vol
+[11:53:26]  S=Rs.769.27  bid=Rs.769.08  ask=Rs.769.47  regime=Low Vol  delta=Rs.0.3961  sigma=0.00023  T=0.58  inv=+3  costs=Rs.16.79  Net P&L=Rs.+4.89
+[11:53:57] Price: Rs.769.27  buffer=157
+  BUY  @ Rs.769.08  inv=+4  regime=Low Vol
+  SELL @ Rs.769.47  inv=+3  regime=Low Vol
+[11:53:57]  S=Rs.769.27  bid=Rs.769.08  ask=Rs.769.47  regime=Low Vol  delta=Rs.0.3961  sigma=0.00023  T=0.58  inv=+3  costs=Rs.17.03  Net P&L=Rs.+5.04
+[11:54:27] Price: Rs.769.62  buffer=158
+  BUY  @ Rs.769.43  inv=+4  regime=Low Vol
+[11:54:27]  S=Rs.769.62  bid=Rs.769.43  ask=Rs.769.82  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.58  inv=+3  costs=Rs.17.06  Net P&L=Rs.+6.26
+[11:54:57] Price: Rs.769.62  buffer=159
+  BUY  @ Rs.769.43  inv=+5  regime=Low Vol
+  SELL @ Rs.769.82  inv=+4  regime=Low Vol
+[11:54:57]  S=Rs.769.62  bid=Rs.769.43  ask=Rs.769.82  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.58  inv=+4  costs=Rs.17.31  Net P&L=Rs.+6.41
+[11:55:27] Price: Rs.769.73  buffer=160
+  BUY  @ Rs.769.53  inv=+5  regime=Low Vol
+[11:55:27]  S=Rs.769.73  bid=Rs.769.53  ask=Rs.769.92  regime=Low Vol  delta=Rs.0.3961  sigma=0.00025  T=0.57  inv=+4  costs=Rs.17.33  Net P&L=Rs.+6.98
+[11:55:57] Price: Rs.769.73  buffer=161
+[11:55:57]  S=Rs.769.73  bid=Rs.769.53  ask=Rs.769.92  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.57  inv=+5  costs=Rs.17.33  Net P&L=Rs.+6.98
+[11:56:27] Price: Rs.769.72  buffer=162
+[11:56:27]  S=Rs.769.72  bid=Rs.769.53  ask=Rs.769.92  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.57  inv=+5  costs=Rs.17.33  Net P&L=Rs.+6.98
+[11:56:58] Price: Rs.769.72  buffer=163
+[11:56:58]  S=Rs.769.72  bid=Rs.769.53  ask=Rs.769.92  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.57  inv=+5  costs=Rs.17.33  Net P&L=Rs.+6.98
+[11:57:28] Price: Rs.769.83  buffer=164
+  BUY  @ Rs.769.63  inv=+6  regime=Low Vol
+[11:57:28]  S=Rs.769.83  bid=Rs.769.63  ask=Rs.770.02  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.57  inv=+5  costs=Rs.17.36  Net P&L=Rs.+7.65
+[11:57:58] Price: Rs.769.83  buffer=165
+[11:57:58]  S=Rs.769.83  bid=Rs.769.63  ask=Rs.770.02  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.57  inv=+6  costs=Rs.17.36  Net P&L=Rs.+7.65
+[11:58:28] Price: Rs.769.83  buffer=166
+[11:58:28]  S=Rs.769.83  bid=Rs.769.63  ask=Rs.770.02  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.57  inv=+6  costs=Rs.17.36  Net P&L=Rs.+7.65
+[11:59:02] Price: Rs.769.85  buffer=167
+[11:59:02]  S=Rs.769.85  bid=Rs.769.65  ask=Rs.770.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.56  inv=+6  costs=Rs.17.36  Net P&L=Rs.+7.80
+[11:59:32] Price: Rs.769.62  buffer=168
+  SELL @ Rs.769.82  inv=+5  regime=Low Vol
+[11:59:32]  S=Rs.769.62  bid=Rs.769.43  ask=Rs.769.82  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.56  inv=+6  costs=Rs.17.58  Net P&L=Rs.+6.43
+[12:00:02] Price: Rs.769.33  buffer=169
+  SELL @ Rs.769.52  inv=+4  regime=Low Vol
+[12:00:02]  S=Rs.769.33  bid=Rs.769.13  ask=Rs.769.52  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.56  inv=+5  costs=Rs.17.80  Net P&L=Rs.+4.91
+[12:00:33] Price: Rs.769.33  buffer=170
+  BUY  @ Rs.769.13  inv=+5  regime=Low Vol
+  SELL @ Rs.769.52  inv=+4  regime=Low Vol
+[12:00:33]  S=Rs.769.33  bid=Rs.769.13  ask=Rs.769.52  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.56  inv=+4  costs=Rs.18.04  Net P&L=Rs.+5.06
+[12:01:03] Price: Rs.769.05  buffer=171
+  SELL @ Rs.769.25  inv=+3  regime=Low Vol
+[12:01:03]  S=Rs.769.05  bid=Rs.768.85  ask=Rs.769.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.56  inv=+4  costs=Rs.18.26  Net P&L=Rs.+3.94
+[12:01:33] Price: Rs.769.05  buffer=172
+[12:01:33]  S=Rs.769.05  bid=Rs.768.85  ask=Rs.769.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.56  inv=+3  costs=Rs.18.26  Net P&L=Rs.+3.94
+[12:02:03] Price: Rs.769.05  buffer=173
+[12:02:03]  S=Rs.769.05  bid=Rs.768.85  ask=Rs.769.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.55  inv=+3  costs=Rs.18.26  Net P&L=Rs.+3.94
+[12:02:33] Price: Rs.768.88  buffer=174
+  SELL @ Rs.769.07  inv=+2  regime=Low Vol
+[12:02:33]  S=Rs.768.88  bid=Rs.768.68  ask=Rs.769.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.55  inv=+3  costs=Rs.18.48  Net P&L=Rs.+3.40
+[12:03:04] Price: Rs.768.85  buffer=175
+[12:03:04]  S=Rs.768.85  bid=Rs.768.65  ask=Rs.769.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.55  inv=+2  costs=Rs.18.48  Net P&L=Rs.+3.35
+[12:03:34] Price: Rs.768.85  buffer=176
+[12:03:34]  S=Rs.768.85  bid=Rs.768.65  ask=Rs.769.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.55  inv=+2  costs=Rs.18.48  Net P&L=Rs.+3.35
+[12:04:04] Price: Rs.769.00  buffer=177
+  BUY  @ Rs.768.80  inv=+3  regime=Low Vol
+[12:04:04]  S=Rs.769.00  bid=Rs.768.80  ask=Rs.769.20  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.55  inv=+2  costs=Rs.18.51  Net P&L=Rs.+3.82
+[12:04:34] Price: Rs.769.00  buffer=178
+[12:04:34]  S=Rs.769.00  bid=Rs.768.80  ask=Rs.769.20  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.55  inv=+3  costs=Rs.18.51  Net P&L=Rs.+3.82
+[12:05:05] Price: Rs.769.00  buffer=179
+[12:05:05]  S=Rs.769.00  bid=Rs.768.80  ask=Rs.769.20  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.55  inv=+3  costs=Rs.18.51  Net P&L=Rs.+3.82
+[12:05:35] Price: Rs.769.00  buffer=180
+[12:05:35]  S=Rs.769.00  bid=Rs.768.80  ask=Rs.769.20  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.55  inv=+3  costs=Rs.18.51  Net P&L=Rs.+3.82
+[12:06:05] Price: Rs.768.85  buffer=181
+  SELL @ Rs.769.05  inv=+2  regime=Low Vol
+[12:06:05]  S=Rs.768.85  bid=Rs.768.65  ask=Rs.769.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.54  inv=+3  costs=Rs.18.73  Net P&L=Rs.+3.35
+[12:06:36] Price: Rs.768.85  buffer=182
+[12:06:36]  S=Rs.768.85  bid=Rs.768.65  ask=Rs.769.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.54  inv=+2  costs=Rs.18.73  Net P&L=Rs.+3.35
+[12:07:06] Price: Rs.769.08  buffer=183
+  BUY  @ Rs.768.88  inv=+3  regime=Low Vol
+[12:07:06]  S=Rs.769.08  bid=Rs.768.88  ask=Rs.769.27  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.54  inv=+2  costs=Rs.18.75  Net P&L=Rs.+3.97
+[12:07:36] Price: Rs.769.08  buffer=184
+[12:07:36]  S=Rs.769.08  bid=Rs.768.88  ask=Rs.769.27  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.54  inv=+3  costs=Rs.18.75  Net P&L=Rs.+3.97
+[12:08:07] Price: Rs.769.12  buffer=185
+  BUY  @ Rs.768.93  inv=+4  regime=Low Vol
+[12:08:07]  S=Rs.769.12  bid=Rs.768.93  ask=Rs.769.32  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.54  inv=+3  costs=Rs.18.78  Net P&L=Rs.+4.29
+[12:08:37] Price: Rs.769.12  buffer=186
+  BUY  @ Rs.768.93  inv=+5  regime=Low Vol
+  SELL @ Rs.769.32  inv=+4  regime=Low Vol
+[12:08:37]  S=Rs.769.12  bid=Rs.768.93  ask=Rs.769.32  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.54  inv=+4  costs=Rs.19.02  Net P&L=Rs.+4.44
+[12:09:07] Price: Rs.769.62  buffer=187
+  BUY  @ Rs.769.43  inv=+5  regime=Low Vol
+[12:09:07]  S=Rs.769.62  bid=Rs.769.43  ask=Rs.769.82  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.54  inv=+4  costs=Rs.19.05  Net P&L=Rs.+6.61
+[12:09:37] Price: Rs.769.62  buffer=188
+  BUY  @ Rs.769.43  inv=+6  regime=Low Vol
+  SELL @ Rs.769.82  inv=+5  regime=Low Vol
+[12:09:37]  S=Rs.769.62  bid=Rs.769.43  ask=Rs.769.82  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.54  inv=+5  costs=Rs.19.30  Net P&L=Rs.+6.76
+[12:10:07] Price: Rs.769.93  buffer=189
+  BUY  @ Rs.769.73  inv=+6  regime=Low Vol
+[12:10:07]  S=Rs.769.93  bid=Rs.769.73  ask=Rs.770.12  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.53  inv=+5  costs=Rs.19.32  Net P&L=Rs.+8.43
+[12:10:37] Price: Rs.769.93  buffer=190
+  BUY  @ Rs.769.73  inv=+7  regime=Low Vol
+  SELL @ Rs.770.12  inv=+6  regime=Low Vol
+[12:10:37]  S=Rs.769.93  bid=Rs.769.73  ask=Rs.770.12  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.53  inv=+6  costs=Rs.19.57  Net P&L=Rs.+8.58
+[12:11:08] Price: Rs.769.78  buffer=191
+  SELL @ Rs.769.97  inv=+5  regime=Low Vol
+[12:11:08]  S=Rs.769.78  bid=Rs.769.58  ask=Rs.769.97  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.53  inv=+6  costs=Rs.19.79  Net P&L=Rs.+7.66
+[12:11:38] Price: Rs.769.78  buffer=192
+[12:11:38]  S=Rs.769.78  bid=Rs.769.58  ask=Rs.769.97  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.53  inv=+5  costs=Rs.19.79  Net P&L=Rs.+7.66
+[12:12:08] Price: Rs.769.83  buffer=193
+[12:12:08]  S=Rs.769.83  bid=Rs.769.63  ask=Rs.770.02  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.53  inv=+5  costs=Rs.19.79  Net P&L=Rs.+7.91
+[12:12:38] Price: Rs.769.83  buffer=194
+[12:12:38]  S=Rs.769.83  bid=Rs.769.63  ask=Rs.770.02  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.53  inv=+5  costs=Rs.19.79  Net P&L=Rs.+7.91
+[12:13:08] Price: Rs.769.85  buffer=195
+[12:13:08]  S=Rs.769.85  bid=Rs.769.65  ask=Rs.770.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.53  inv=+5  costs=Rs.19.79  Net P&L=Rs.+8.04
+[12:13:39] Price: Rs.769.85  buffer=196
+[12:13:39]  S=Rs.769.85  bid=Rs.769.65  ask=Rs.770.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.53  inv=+5  costs=Rs.19.79  Net P&L=Rs.+8.04
+[12:14:09] Price: Rs.769.83  buffer=197
+[12:14:09]  S=Rs.769.83  bid=Rs.769.63  ask=Rs.770.02  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.52  inv=+5  costs=Rs.19.79  Net P&L=Rs.+7.91
+[12:14:39] Price: Rs.769.83  buffer=198
+[12:14:39]  S=Rs.769.83  bid=Rs.769.63  ask=Rs.770.02  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.52  inv=+5  costs=Rs.19.79  Net P&L=Rs.+7.91
+[12:15:10] Price: Rs.770.10  buffer=199
+  BUY  @ Rs.769.90  inv=+6  regime=Low Vol
+[12:15:10]  S=Rs.770.10  bid=Rs.769.90  ask=Rs.770.30  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.52  inv=+5  costs=Rs.19.81  Net P&L=Rs.+9.46
+[12:15:40] Price: Rs.770.10  buffer=200
+  BUY  @ Rs.769.90  inv=+7  regime=Low Vol
+  SELL @ Rs.770.30  inv=+6  regime=Low Vol
+[12:15:40]  S=Rs.770.10  bid=Rs.769.90  ask=Rs.770.30  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.52  inv=+6  costs=Rs.20.06  Net P&L=Rs.+9.61
+[12:16:10] Price: Rs.770.18  buffer=201
+  BUY  @ Rs.769.98  inv=+7  regime=Low Vol
+[12:16:10]  S=Rs.770.18  bid=Rs.769.98  ask=Rs.770.37  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.52  inv=+6  costs=Rs.20.09  Net P&L=Rs.+10.23
+[12:16:40] Price: Rs.770.18  buffer=202
+  BUY  @ Rs.769.98  inv=+8  regime=Low Vol
+  SELL @ Rs.770.37  inv=+7  regime=Low Vol
+[12:16:40]  S=Rs.770.18  bid=Rs.769.98  ask=Rs.770.37  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.52  inv=+7  costs=Rs.20.33  Net P&L=Rs.+10.38
+[12:17:10] Price: Rs.770.07  buffer=203
+  SELL @ Rs.770.27  inv=+6  regime=Low Vol
+[12:17:10]  S=Rs.770.07  bid=Rs.769.88  ask=Rs.770.27  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.51  inv=+7  costs=Rs.20.55  Net P&L=Rs.+9.66
+[12:17:41] Price: Rs.770.07  buffer=204
+  BUY  @ Rs.769.88  inv=+7  regime=Low Vol
+  SELL @ Rs.770.27  inv=+6  regime=Low Vol
+[12:17:41]  S=Rs.770.07  bid=Rs.769.88  ask=Rs.770.27  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.51  inv=+6  costs=Rs.20.80  Net P&L=Rs.+9.81
+[12:18:11] Price: Rs.770.07  buffer=205
+  BUY  @ Rs.769.88  inv=+7  regime=Low Vol
+  SELL @ Rs.770.27  inv=+6  regime=Low Vol
+[12:18:11]  S=Rs.770.07  bid=Rs.769.88  ask=Rs.770.27  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.51  inv=+6  costs=Rs.21.04  Net P&L=Rs.+9.96
+[12:18:41] Price: Rs.770.07  buffer=206
+  BUY  @ Rs.769.88  inv=+7  regime=Low Vol
+  SELL @ Rs.770.27  inv=+6  regime=Low Vol
+[12:18:41]  S=Rs.770.07  bid=Rs.769.88  ask=Rs.770.27  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.51  inv=+6  costs=Rs.21.29  Net P&L=Rs.+10.11
+[12:19:11] Price: Rs.770.23  buffer=207
+  BUY  @ Rs.770.03  inv=+7  regime=Low Vol
+[12:19:11]  S=Rs.770.23  bid=Rs.770.03  ask=Rs.770.42  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.51  inv=+6  costs=Rs.21.31  Net P&L=Rs.+11.18
+[12:19:42] Price: Rs.770.23  buffer=208
+  BUY  @ Rs.770.03  inv=+8  regime=Low Vol
+  SELL @ Rs.770.42  inv=+7  regime=Low Vol
+[12:19:42]  S=Rs.770.23  bid=Rs.770.03  ask=Rs.770.42  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.51  inv=+7  costs=Rs.21.56  Net P&L=Rs.+11.33
+[12:20:12] Price: Rs.770.52  buffer=209
+  BUY  @ Rs.770.33  inv=+8  regime=Low Vol
+[12:20:12]  S=Rs.770.52  bid=Rs.770.33  ask=Rs.770.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.51  inv=+7  costs=Rs.21.59  Net P&L=Rs.+13.60
+[12:20:42] Price: Rs.770.52  buffer=210
+[12:20:42]  S=Rs.770.52  bid=Rs.770.33  ask=Rs.770.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.51  inv=+8  costs=Rs.21.59  Net P&L=Rs.+13.60
+[12:21:13] Price: Rs.770.30  buffer=211
+  SELL @ Rs.770.50  inv=+7  regime=Low Vol
+[12:21:13]  S=Rs.770.30  bid=Rs.770.10  ask=Rs.770.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.50  inv=+8  costs=Rs.21.81  Net P&L=Rs.+11.78
+[12:21:43] Price: Rs.770.30  buffer=212
+  BUY  @ Rs.770.10  inv=+8  regime=Low Vol
+  SELL @ Rs.770.50  inv=+7  regime=Low Vol
+[12:21:43]  S=Rs.770.30  bid=Rs.770.10  ask=Rs.770.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.50  inv=+7  costs=Rs.22.05  Net P&L=Rs.+11.93
+[12:22:13] Price: Rs.770.23  buffer=213
+  BUY  @ Rs.770.03  inv=+8  regime=Low Vol
+  SELL @ Rs.770.42  inv=+7  regime=Low Vol
+[12:22:13]  S=Rs.770.23  bid=Rs.770.03  ask=Rs.770.42  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.50  inv=+7  costs=Rs.22.30  Net P&L=Rs.+11.56
+[12:22:44] Price: Rs.770.23  buffer=214
+  BUY  @ Rs.770.03  inv=+8  regime=Low Vol
+  SELL @ Rs.770.42  inv=+7  regime=Low Vol
+[12:22:44]  S=Rs.770.23  bid=Rs.770.03  ask=Rs.770.42  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.50  inv=+7  costs=Rs.22.54  Net P&L=Rs.+11.71
+[12:23:14] Price: Rs.770.05  buffer=215
+  SELL @ Rs.770.25  inv=+6  regime=Low Vol
+[12:23:14]  S=Rs.770.05  bid=Rs.769.85  ask=Rs.770.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.50  inv=+7  costs=Rs.22.76  Net P&L=Rs.+10.46
+[12:23:44] Price: Rs.770.05  buffer=216
+  BUY  @ Rs.769.85  inv=+7  regime=Low Vol
+  SELL @ Rs.770.25  inv=+6  regime=Low Vol
+[12:23:44]  S=Rs.770.05  bid=Rs.769.85  ask=Rs.770.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00015  T=0.50  inv=+6  costs=Rs.23.01  Net P&L=Rs.+10.61
+[12:24:15] Price: Rs.770.52  buffer=217
+  BUY  @ Rs.770.33  inv=+7  regime=Low Vol
+[12:24:15]  S=Rs.770.52  bid=Rs.770.33  ask=Rs.770.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.50  inv=+6  costs=Rs.23.03  Net P&L=Rs.+13.63
+[12:24:45] Price: Rs.770.52  buffer=218
+  BUY  @ Rs.770.33  inv=+8  regime=Low Vol
+  SELL @ Rs.770.72  inv=+7  regime=Low Vol
+[12:24:45]  S=Rs.770.52  bid=Rs.770.33  ask=Rs.770.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.50  inv=+7  costs=Rs.23.28  Net P&L=Rs.+13.78
+[12:25:15] Price: Rs.770.52  buffer=219
+  BUY  @ Rs.770.33  inv=+8  regime=Low Vol
+  SELL @ Rs.770.72  inv=+7  regime=Low Vol
+[12:25:15]  S=Rs.770.52  bid=Rs.770.33  ask=Rs.770.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.49  inv=+7  costs=Rs.23.53  Net P&L=Rs.+13.93
+[12:25:45] Price: Rs.770.52  buffer=220
+  BUY  @ Rs.770.33  inv=+8  regime=Low Vol
+  SELL @ Rs.770.72  inv=+7  regime=Low Vol
+[12:25:45]  S=Rs.770.52  bid=Rs.770.33  ask=Rs.770.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.49  inv=+7  costs=Rs.23.77  Net P&L=Rs.+14.08
+[12:26:16] Price: Rs.770.65  buffer=221
+  BUY  @ Rs.770.45  inv=+8  regime=Low Vol
+[12:26:16]  S=Rs.770.65  bid=Rs.770.45  ask=Rs.770.85  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.49  inv=+7  costs=Rs.23.80  Net P&L=Rs.+15.13
+[13:03:38] Price: Rs.770.38  buffer=222
+  BUY  @ Rs.770.18  inv=+9  regime=Low Vol
+  SELL @ Rs.770.57  inv=+8  regime=Low Vol
+[13:03:38]  S=Rs.770.38  bid=Rs.770.18  ask=Rs.770.57  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.39  inv=+8  costs=Rs.24.04  Net P&L=Rs.+13.08
+[13:04:09] Price: Rs.770.45  buffer=223
+  BUY  @ Rs.770.25  inv=+9  regime=Low Vol
+  SELL @ Rs.770.65  inv=+8  regime=Low Vol
+[13:04:09]  S=Rs.770.45  bid=Rs.770.25  ask=Rs.770.65  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.39  inv=+8  costs=Rs.24.29  Net P&L=Rs.+13.83
+[13:04:39] Price: Rs.770.45  buffer=224
+  BUY  @ Rs.770.25  inv=+9  regime=Low Vol
+  SELL @ Rs.770.65  inv=+8  regime=Low Vol
+[13:04:39]  S=Rs.770.45  bid=Rs.770.25  ask=Rs.770.65  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.39  inv=+8  costs=Rs.24.54  Net P&L=Rs.+13.98
+[13:05:09] Price: Rs.770.45  buffer=225
+  BUY  @ Rs.770.25  inv=+9  regime=Low Vol
+  SELL @ Rs.770.65  inv=+8  regime=Low Vol
+[13:05:09]  S=Rs.770.45  bid=Rs.770.25  ask=Rs.770.65  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.39  inv=+8  costs=Rs.24.78  Net P&L=Rs.+14.13
+[13:05:39] Price: Rs.770.45  buffer=226
+  BUY  @ Rs.770.25  inv=+9  regime=Low Vol
+  SELL @ Rs.770.65  inv=+8  regime=Low Vol
+[13:05:39]  S=Rs.770.45  bid=Rs.770.25  ask=Rs.770.65  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.39  inv=+8  costs=Rs.25.03  Net P&L=Rs.+14.28
+[13:06:09] Price: Rs.770.17  buffer=227
+  SELL @ Rs.770.37  inv=+7  regime=Low Vol
+[13:06:09]  S=Rs.770.17  bid=Rs.769.98  ask=Rs.770.37  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.38  inv=+8  costs=Rs.25.25  Net P&L=Rs.+12.06
+[13:06:39] Price: Rs.770.17  buffer=228
+[13:06:39]  S=Rs.770.17  bid=Rs.769.98  ask=Rs.770.37  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.38  inv=+7  costs=Rs.25.25  Net P&L=Rs.+12.06
+[13:07:10] Price: Rs.770.08  buffer=229
+  SELL @ Rs.770.27  inv=+6  regime=Low Vol
+[13:07:10]  S=Rs.770.08  bid=Rs.769.88  ask=Rs.770.27  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.38  inv=+7  costs=Rs.25.47  Net P&L=Rs.+11.34
+[13:07:40] Price: Rs.770.08  buffer=230
+[13:07:40]  S=Rs.770.08  bid=Rs.769.88  ask=Rs.770.27  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.38  inv=+6  costs=Rs.25.47  Net P&L=Rs.+11.34
+[13:08:10] Price: Rs.770.35  buffer=231
+  BUY  @ Rs.770.15  inv=+7  regime=Low Vol
+[13:08:10]  S=Rs.770.35  bid=Rs.770.15  ask=Rs.770.55  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.38  inv=+6  costs=Rs.25.49  Net P&L=Rs.+13.16
+[13:08:40] Price: Rs.770.35  buffer=232
+  BUY  @ Rs.770.15  inv=+8  regime=Low Vol
+  SELL @ Rs.770.55  inv=+7  regime=Low Vol
+[13:08:40]  S=Rs.770.35  bid=Rs.770.15  ask=Rs.770.55  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.38  inv=+7  costs=Rs.25.74  Net P&L=Rs.+13.31
+[13:09:10] Price: Rs.770.55  buffer=233
+  BUY  @ Rs.770.35  inv=+8  regime=Low Vol
+[13:09:10]  S=Rs.770.55  bid=Rs.770.35  ask=Rs.770.75  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.38  inv=+7  costs=Rs.25.77  Net P&L=Rs.+14.88
+[13:09:40] Price: Rs.770.55  buffer=234
+  BUY  @ Rs.770.35  inv=+9  regime=Low Vol
+  SELL @ Rs.770.75  inv=+8  regime=Low Vol
+[13:09:40]  S=Rs.770.55  bid=Rs.770.35  ask=Rs.770.75  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.38  inv=+8  costs=Rs.26.01  Net P&L=Rs.+15.03
+[13:10:11] Price: Rs.770.85  buffer=235
+  BUY  @ Rs.770.65  inv=+9  regime=Low Vol
+[13:10:11]  S=Rs.770.85  bid=Rs.770.65  ask=Rs.771.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.37  inv=+8  costs=Rs.26.04  Net P&L=Rs.+17.60
+[13:10:41] Price: Rs.770.85  buffer=236
+  BUY  @ Rs.770.65  inv=+10  regime=Low Vol
+  SELL @ Rs.771.05  inv=+9  regime=Low Vol
+[13:10:41]  S=Rs.770.85  bid=Rs.770.65  ask=Rs.771.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.37  inv=+9  costs=Rs.26.28  Net P&L=Rs.+17.76
+[13:11:11] Price: Rs.771.35  buffer=237
+  BUY  @ Rs.771.15  inv=+10  regime=Low Vol
+[13:11:11]  S=Rs.771.35  bid=Rs.771.15  ask=Rs.771.55  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.37  inv=+9  costs=Rs.26.31  Net P&L=Rs.+22.43
+[13:11:41] Price: Rs.771.35  buffer=238
+  SELL @ Rs.771.55  inv=+9  regime=Low Vol
+[13:11:41]  S=Rs.771.35  bid=Rs.771.15  ask=Rs.771.55  regime=Low Vol  delta=Rs.0.3961  sigma=0.00023  T=0.37  inv=+10  costs=Rs.26.53  Net P&L=Rs.+22.41
+[13:12:11] Price: Rs.770.98  buffer=239
+  SELL @ Rs.771.17  inv=+8  regime=Low Vol
+[13:12:11]  S=Rs.770.98  bid=Rs.770.78  ask=Rs.771.17  regime=Low Vol  delta=Rs.0.3961  sigma=0.00025  T=0.37  inv=+9  costs=Rs.26.75  Net P&L=Rs.+19.01
+[13:12:41] Price: Rs.770.98  buffer=240
+  BUY  @ Rs.770.78  inv=+9  regime=Low Vol
+  SELL @ Rs.771.17  inv=+8  regime=Low Vol
+[13:12:41]  S=Rs.770.98  bid=Rs.770.78  ask=Rs.771.17  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.37  inv=+8  costs=Rs.26.99  Net P&L=Rs.+19.16
+[13:13:12] Price: Rs.770.77  buffer=241
+  BUY  @ Rs.770.58  inv=+9  regime=Low Vol
+  SELL @ Rs.770.97  inv=+8  regime=Low Vol
+[13:13:12]  S=Rs.770.77  bid=Rs.770.58  ask=Rs.770.97  regime=Low Vol  delta=Rs.0.3961  sigma=0.00025  T=0.37  inv=+8  costs=Rs.27.24  Net P&L=Rs.+17.71
+[13:13:42] Price: Rs.770.77  buffer=242
+  BUY  @ Rs.770.58  inv=+9  regime=Low Vol
+  SELL @ Rs.770.97  inv=+8  regime=Low Vol
+[13:13:42]  S=Rs.770.77  bid=Rs.770.58  ask=Rs.770.97  regime=Low Vol  delta=Rs.0.3961  sigma=0.00025  T=0.37  inv=+8  costs=Rs.27.49  Net P&L=Rs.+17.86
+[13:14:12] Price: Rs.770.88  buffer=243
+  BUY  @ Rs.770.68  inv=+9  regime=Low Vol
+[13:14:12]  S=Rs.770.88  bid=Rs.770.68  ask=Rs.771.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00025  T=0.36  inv=+8  costs=Rs.27.51  Net P&L=Rs.+18.83
+[13:14:42] Price: Rs.770.88  buffer=244
+  BUY  @ Rs.770.68  inv=+10  regime=Low Vol
+  SELL @ Rs.771.07  inv=+9  regime=Low Vol
+[13:14:42]  S=Rs.770.88  bid=Rs.770.68  ask=Rs.771.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.36  inv=+9  costs=Rs.27.76  Net P&L=Rs.+18.98
+[13:15:12] Price: Rs.771.02  buffer=245
+  BUY  @ Rs.770.83  inv=+10  regime=Low Vol
+[13:15:12]  S=Rs.771.02  bid=Rs.770.83  ask=Rs.771.22  regime=Low Vol  delta=Rs.0.3961  sigma=0.00025  T=0.36  inv=+9  costs=Rs.27.79  Net P&L=Rs.+20.50
+[13:15:43] Price: Rs.771.02  buffer=246
+  SELL @ Rs.771.22  inv=+9  regime=Low Vol
+[13:15:43]  S=Rs.771.02  bid=Rs.770.83  ask=Rs.771.22  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.36  inv=+10  costs=Rs.28.01  Net P&L=Rs.+20.48
+[13:16:13] Price: Rs.771.18  buffer=247
+  BUY  @ Rs.770.98  inv=+10  regime=Low Vol
+[13:16:13]  S=Rs.771.18  bid=Rs.770.98  ask=Rs.771.37  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.36  inv=+9  costs=Rs.28.03  Net P&L=Rs.+22.00
+[13:16:43] Price: Rs.771.18  buffer=248
+  SELL @ Rs.771.37  inv=+9  regime=Low Vol
+[13:16:43]  S=Rs.771.18  bid=Rs.770.98  ask=Rs.771.37  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.36  inv=+10  costs=Rs.28.25  Net P&L=Rs.+21.98
+[13:17:13] Price: Rs.771.20  buffer=249
+  BUY  @ Rs.771.00  inv=+10  regime=Low Vol
+  SELL @ Rs.771.40  inv=+9  regime=Low Vol
+[13:17:13]  S=Rs.771.20  bid=Rs.771.00  ask=Rs.771.40  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.35  inv=+9  costs=Rs.28.50  Net P&L=Rs.+22.36
+[13:17:43] Price: Rs.771.20  buffer=250
+[13:17:43]  S=Rs.771.20  bid=Rs.771.00  ask=Rs.771.40  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.35  inv=+9  costs=Rs.28.50  Net P&L=Rs.+22.36
+[13:18:13] Price: Rs.770.95  buffer=251
+  SELL @ Rs.771.15  inv=+8  regime=Low Vol
+[13:18:13]  S=Rs.770.95  bid=Rs.770.75  ask=Rs.771.15  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.35  inv=+9  costs=Rs.28.72  Net P&L=Rs.+20.08
+[13:18:44] Price: Rs.770.95  buffer=252
+[13:18:44]  S=Rs.770.95  bid=Rs.770.75  ask=Rs.771.15  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.35  inv=+8  costs=Rs.28.72  Net P&L=Rs.+20.08
+[13:19:14] Price: Rs.770.88  buffer=253
+  SELL @ Rs.771.07  inv=+7  regime=Low Vol
+[13:19:14]  S=Rs.770.88  bid=Rs.770.68  ask=Rs.771.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.35  inv=+8  costs=Rs.28.94  Net P&L=Rs.+19.46
+[13:19:44] Price: Rs.770.88  buffer=254
+  BUY  @ Rs.770.68  inv=+8  regime=Low Vol
+  SELL @ Rs.771.07  inv=+7  regime=Low Vol
+[13:19:44]  S=Rs.770.88  bid=Rs.770.68  ask=Rs.771.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.35  inv=+7  costs=Rs.29.18  Net P&L=Rs.+19.61
+[13:20:14] Price: Rs.770.93  buffer=255
+  BUY  @ Rs.770.73  inv=+8  regime=Low Vol
+  SELL @ Rs.771.12  inv=+7  regime=Low Vol
+[13:20:14]  S=Rs.770.93  bid=Rs.770.73  ask=Rs.771.12  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.35  inv=+7  costs=Rs.29.43  Net P&L=Rs.+20.11
+[13:20:44] Price: Rs.770.93  buffer=256
+  BUY  @ Rs.770.73  inv=+8  regime=Low Vol
+  SELL @ Rs.771.12  inv=+7  regime=Low Vol
+[13:20:44]  S=Rs.770.93  bid=Rs.770.73  ask=Rs.771.12  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.35  inv=+7  costs=Rs.29.67  Net P&L=Rs.+20.26
+[13:21:14] Price: Rs.770.85  buffer=257
+  BUY  @ Rs.770.65  inv=+8  regime=Low Vol
+  SELL @ Rs.771.05  inv=+7  regime=Low Vol
+[13:21:14]  S=Rs.770.85  bid=Rs.770.65  ask=Rs.771.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.34  inv=+7  costs=Rs.29.92  Net P&L=Rs.+19.89
+[13:21:45] Price: Rs.770.85  buffer=258
+  BUY  @ Rs.770.65  inv=+8  regime=Low Vol
+  SELL @ Rs.771.05  inv=+7  regime=Low Vol
+[13:21:45]  S=Rs.770.85  bid=Rs.770.65  ask=Rs.771.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.34  inv=+7  costs=Rs.30.17  Net P&L=Rs.+20.04
+[13:22:15] Price: Rs.771.02  buffer=259
+  BUY  @ Rs.770.83  inv=+8  regime=Low Vol
+[13:22:15]  S=Rs.771.02  bid=Rs.770.83  ask=Rs.771.22  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.34  inv=+7  costs=Rs.30.19  Net P&L=Rs.+21.43
+[13:22:45] Price: Rs.771.02  buffer=260
+[13:22:45]  S=Rs.771.02  bid=Rs.770.83  ask=Rs.771.22  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.34  inv=+8  costs=Rs.30.19  Net P&L=Rs.+21.43
+[13:23:15] Price: Rs.770.85  buffer=261
+  SELL @ Rs.771.05  inv=+7  regime=Low Vol
+[13:23:15]  S=Rs.770.85  bid=Rs.770.65  ask=Rs.771.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.34  inv=+8  costs=Rs.30.41  Net P&L=Rs.+20.01
+[13:23:45] Price: Rs.770.85  buffer=262
+  BUY  @ Rs.770.65  inv=+8  regime=Low Vol
+  SELL @ Rs.771.05  inv=+7  regime=Low Vol
+[13:23:45]  S=Rs.770.85  bid=Rs.770.65  ask=Rs.771.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.34  inv=+7  costs=Rs.30.66  Net P&L=Rs.+20.16
+[13:24:16] Price: Rs.770.45  buffer=263
+  SELL @ Rs.770.65  inv=+6  regime=Low Vol
+[13:24:16]  S=Rs.770.45  bid=Rs.770.25  ask=Rs.770.65  regime=Low Vol  delta=Rs.0.3961  sigma=0.00023  T=0.34  inv=+7  costs=Rs.30.88  Net P&L=Rs.+17.34
+[13:24:46] Price: Rs.770.45  buffer=264
+  BUY  @ Rs.770.25  inv=+7  regime=Low Vol
+  SELL @ Rs.770.65  inv=+6  regime=Low Vol
+[13:24:46]  S=Rs.770.45  bid=Rs.770.25  ask=Rs.770.65  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.34  inv=+6  costs=Rs.31.12  Net P&L=Rs.+17.49
+[13:25:16] Price: Rs.770.50  buffer=265
+  BUY  @ Rs.770.30  inv=+7  regime=Low Vol
+  SELL @ Rs.770.70  inv=+6  regime=Low Vol
+[13:25:16]  S=Rs.770.50  bid=Rs.770.30  ask=Rs.770.70  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.33  inv=+6  costs=Rs.31.37  Net P&L=Rs.+17.94
+[13:25:46] Price: Rs.770.50  buffer=266
+  BUY  @ Rs.770.30  inv=+7  regime=Low Vol
+  SELL @ Rs.770.70  inv=+6  regime=Low Vol
+[13:25:46]  S=Rs.770.50  bid=Rs.770.30  ask=Rs.770.70  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.33  inv=+6  costs=Rs.31.61  Net P&L=Rs.+18.09
+[13:26:16] Price: Rs.770.38  buffer=267
+  SELL @ Rs.770.57  inv=+5  regime=Low Vol
+[13:26:16]  S=Rs.770.38  bid=Rs.770.18  ask=Rs.770.57  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.33  inv=+6  costs=Rs.31.83  Net P&L=Rs.+17.32
+[13:26:47] Price: Rs.770.38  buffer=268
+  BUY  @ Rs.770.18  inv=+6  regime=Low Vol
+  SELL @ Rs.770.57  inv=+5  regime=Low Vol
+[13:26:47]  S=Rs.770.38  bid=Rs.770.18  ask=Rs.770.57  regime=Low Vol  delta=Rs.0.3961  sigma=0.00015  T=0.33  inv=+5  costs=Rs.32.08  Net P&L=Rs.+17.47
+[13:27:17] Price: Rs.770.60  buffer=269
+  BUY  @ Rs.770.40  inv=+6  regime=Low Vol
+[13:27:17]  S=Rs.770.60  bid=Rs.770.40  ask=Rs.770.80  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.33  inv=+5  costs=Rs.32.11  Net P&L=Rs.+18.77
+[13:27:47] Price: Rs.770.60  buffer=270
+  BUY  @ Rs.770.40  inv=+7  regime=Low Vol
+  SELL @ Rs.770.80  inv=+6  regime=Low Vol
+[13:27:47]  S=Rs.770.60  bid=Rs.770.40  ask=Rs.770.80  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.33  inv=+6  costs=Rs.32.35  Net P&L=Rs.+18.92
+[13:28:17] Price: Rs.770.60  buffer=271
+  BUY  @ Rs.770.40  inv=+7  regime=Low Vol
+  SELL @ Rs.770.80  inv=+6  regime=Low Vol
+[13:28:17]  S=Rs.770.60  bid=Rs.770.40  ask=Rs.770.80  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.33  inv=+6  costs=Rs.32.60  Net P&L=Rs.+19.07
+[13:28:47] Price: Rs.770.60  buffer=272
+  BUY  @ Rs.770.40  inv=+7  regime=Low Vol
+  SELL @ Rs.770.80  inv=+6  regime=Low Vol
+[13:28:47]  S=Rs.770.60  bid=Rs.770.40  ask=Rs.770.80  regime=Low Vol  delta=Rs.0.3961  sigma=0.00015  T=0.33  inv=+6  costs=Rs.32.84  Net P&L=Rs.+19.22
+[13:29:17] Price: Rs.770.40  buffer=273
+  SELL @ Rs.770.60  inv=+5  regime=Low Vol
+[13:29:17]  S=Rs.770.40  bid=Rs.770.20  ask=Rs.770.60  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.32  inv=+6  costs=Rs.33.06  Net P&L=Rs.+18.00
+[13:29:48] Price: Rs.770.40  buffer=274
+  BUY  @ Rs.770.20  inv=+6  regime=Low Vol
+  SELL @ Rs.770.60  inv=+5  regime=Low Vol
+[13:29:48]  S=Rs.770.40  bid=Rs.770.20  ask=Rs.770.60  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.32  inv=+5  costs=Rs.33.31  Net P&L=Rs.+18.15
+[13:30:18] Price: Rs.770.40  buffer=275
+  BUY  @ Rs.770.20  inv=+6  regime=Low Vol
+  SELL @ Rs.770.60  inv=+5  regime=Low Vol
+[13:30:18]  S=Rs.770.40  bid=Rs.770.20  ask=Rs.770.60  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.32  inv=+5  costs=Rs.33.55  Net P&L=Rs.+18.30
+[13:30:48] Price: Rs.770.40  buffer=276
+[13:30:48]  S=Rs.770.40  bid=Rs.770.20  ask=Rs.770.60  regime=Low Vol  delta=Rs.0.3961  sigma=0.00015  T=0.32  inv=+5  costs=Rs.33.55  Net P&L=Rs.+18.30
+[13:31:18] Price: Rs.770.60  buffer=277
+  BUY  @ Rs.770.40  inv=+6  regime=Low Vol
+[13:31:18]  S=Rs.770.60  bid=Rs.770.40  ask=Rs.770.80  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.32  inv=+5  costs=Rs.33.58  Net P&L=Rs.+19.47
+[13:31:48] Price: Rs.770.60  buffer=278
+  BUY  @ Rs.770.40  inv=+7  regime=Low Vol
+  SELL @ Rs.770.80  inv=+6  regime=Low Vol
+[13:31:48]  S=Rs.770.60  bid=Rs.770.40  ask=Rs.770.80  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.32  inv=+6  costs=Rs.33.83  Net P&L=Rs.+19.62
+[13:32:19] Price: Rs.770.43  buffer=279
+  SELL @ Rs.770.62  inv=+5  regime=Low Vol
+[13:32:19]  S=Rs.770.43  bid=Rs.770.23  ask=Rs.770.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.31  inv=+6  costs=Rs.34.05  Net P&L=Rs.+18.55
+[13:32:49] Price: Rs.770.43  buffer=280
+  BUY  @ Rs.770.23  inv=+6  regime=Low Vol
+  SELL @ Rs.770.62  inv=+5  regime=Low Vol
+[13:32:49]  S=Rs.770.43  bid=Rs.770.23  ask=Rs.770.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00015  T=0.31  inv=+5  costs=Rs.34.29  Net P&L=Rs.+18.70
+[13:33:19] Price: Rs.770.57  buffer=281
+  BUY  @ Rs.770.38  inv=+6  regime=Low Vol
+[13:33:19]  S=Rs.770.57  bid=Rs.770.38  ask=Rs.770.77  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.31  inv=+5  costs=Rs.34.32  Net P&L=Rs.+19.62
+[13:33:49] Price: Rs.770.57  buffer=282
+  BUY  @ Rs.770.38  inv=+7  regime=Low Vol
+  SELL @ Rs.770.77  inv=+6  regime=Low Vol
+[13:33:49]  S=Rs.770.57  bid=Rs.770.38  ask=Rs.770.77  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.31  inv=+6  costs=Rs.34.56  Net P&L=Rs.+19.77
+[13:34:20] Price: Rs.770.47  buffer=283
+  SELL @ Rs.770.67  inv=+5  regime=Low Vol
+[13:34:20]  S=Rs.770.47  bid=Rs.770.28  ask=Rs.770.67  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.31  inv=+6  costs=Rs.34.78  Net P&L=Rs.+19.15
+[13:34:50] Price: Rs.770.47  buffer=284
+[13:34:50]  S=Rs.770.47  bid=Rs.770.28  ask=Rs.770.67  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.31  inv=+5  costs=Rs.34.78  Net P&L=Rs.+19.15
+[13:35:20] Price: Rs.770.60  buffer=285
+  BUY  @ Rs.770.40  inv=+6  regime=Low Vol
+[13:35:20]  S=Rs.770.60  bid=Rs.770.40  ask=Rs.770.80  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.31  inv=+5  costs=Rs.34.81  Net P&L=Rs.+19.95
+[13:35:50] Price: Rs.770.60  buffer=286
+  BUY  @ Rs.770.40  inv=+7  regime=Low Vol
+  SELL @ Rs.770.80  inv=+6  regime=Low Vol
+[13:35:50]  S=Rs.770.60  bid=Rs.770.40  ask=Rs.770.80  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.31  inv=+6  costs=Rs.35.06  Net P&L=Rs.+20.10
+[13:36:20] Price: Rs.771.02  buffer=287
+  BUY  @ Rs.770.83  inv=+7  regime=Low Vol
+[13:36:20]  S=Rs.771.02  bid=Rs.770.83  ask=Rs.771.22  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.30  inv=+6  costs=Rs.35.08  Net P&L=Rs.+22.82
+[13:36:50] Price: Rs.771.02  buffer=288
+  BUY  @ Rs.770.83  inv=+8  regime=Low Vol
+  SELL @ Rs.771.22  inv=+7  regime=Low Vol
+[13:36:50]  S=Rs.771.02  bid=Rs.770.83  ask=Rs.771.22  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.30  inv=+7  costs=Rs.35.33  Net P&L=Rs.+22.97
+[13:37:20] Price: Rs.771.55  buffer=289
+  BUY  @ Rs.771.35  inv=+8  regime=Low Vol
+[13:37:20]  S=Rs.771.55  bid=Rs.771.35  ask=Rs.771.75  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.30  inv=+7  costs=Rs.35.36  Net P&L=Rs.+26.81
+[13:37:51] Price: Rs.771.55  buffer=290
+  BUY  @ Rs.771.35  inv=+9  regime=Low Vol
+  SELL @ Rs.771.75  inv=+8  regime=Low Vol
+[13:37:51]  S=Rs.771.55  bid=Rs.771.35  ask=Rs.771.75  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.30  inv=+8  costs=Rs.35.60  Net P&L=Rs.+26.96
+[13:38:21] Price: Rs.771.27  buffer=291
+  SELL @ Rs.771.47  inv=+7  regime=Low Vol
+[13:38:21]  S=Rs.771.27  bid=Rs.771.08  ask=Rs.771.47  regime=Low Vol  delta=Rs.0.3961  sigma=0.00023  T=0.30  inv=+8  costs=Rs.35.82  Net P&L=Rs.+24.74
+[13:38:51] Price: Rs.771.27  buffer=292
+  BUY  @ Rs.771.08  inv=+8  regime=Low Vol
+  SELL @ Rs.771.47  inv=+7  regime=Low Vol
+[13:38:51]  S=Rs.771.27  bid=Rs.771.08  ask=Rs.771.47  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.30  inv=+7  costs=Rs.36.07  Net P&L=Rs.+24.89
+[13:39:21] Price: Rs.771.15  buffer=293
+  SELL @ Rs.771.35  inv=+6  regime=Low Vol
+[13:39:21]  S=Rs.771.15  bid=Rs.770.95  ask=Rs.771.35  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.30  inv=+7  costs=Rs.36.29  Net P&L=Rs.+24.00
+[13:39:51] Price: Rs.771.15  buffer=294
+  BUY  @ Rs.770.95  inv=+7  regime=Low Vol
+  SELL @ Rs.771.35  inv=+6  regime=Low Vol
+[13:39:51]  S=Rs.771.15  bid=Rs.770.95  ask=Rs.771.35  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.30  inv=+6  costs=Rs.36.53  Net P&L=Rs.+24.15
+[13:40:22] Price: Rs.771.00  buffer=295
+  BUY  @ Rs.770.80  inv=+7  regime=Low Vol
+  SELL @ Rs.771.20  inv=+6  regime=Low Vol
+[13:40:22]  S=Rs.771.00  bid=Rs.770.80  ask=Rs.771.20  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.29  inv=+6  costs=Rs.36.78  Net P&L=Rs.+23.40
+[13:40:52] Price: Rs.771.00  buffer=296
+[13:40:52]  S=Rs.771.00  bid=Rs.770.80  ask=Rs.771.20  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.29  inv=+6  costs=Rs.36.78  Net P&L=Rs.+23.40
+[13:41:22] Price: Rs.770.98  buffer=297
+[13:41:22]  S=Rs.770.98  bid=Rs.770.78  ask=Rs.771.17  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.29  inv=+6  costs=Rs.36.78  Net P&L=Rs.+23.25
+[13:41:52] Price: Rs.770.98  buffer=298
+  BUY  @ Rs.770.78  inv=+7  regime=Low Vol
+  SELL @ Rs.771.17  inv=+6  regime=Low Vol
+[13:41:52]  S=Rs.770.98  bid=Rs.770.78  ask=Rs.771.17  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.29  inv=+6  costs=Rs.37.02  Net P&L=Rs.+23.40
+[13:42:22] Price: Rs.771.20  buffer=299
+  BUY  @ Rs.771.00  inv=+7  regime=Low Vol
+[13:42:22]  S=Rs.771.20  bid=Rs.771.00  ask=Rs.771.40  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.29  inv=+6  costs=Rs.37.05  Net P&L=Rs.+24.92
+[13:42:53] Price: Rs.771.20  buffer=300
+  BUY  @ Rs.771.00  inv=+8  regime=Low Vol
+  SELL @ Rs.771.40  inv=+7  regime=Low Vol
+[13:42:53]  S=Rs.771.20  bid=Rs.771.00  ask=Rs.771.40  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.29  inv=+7  costs=Rs.37.30  Net P&L=Rs.+25.07
+[13:43:23] Price: Rs.771.33  buffer=301
+  BUY  @ Rs.771.13  inv=+8  regime=Low Vol
+[13:43:23]  S=Rs.771.33  bid=Rs.771.13  ask=Rs.771.52  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.29  inv=+7  costs=Rs.37.32  Net P&L=Rs.+26.11
+[13:43:53] Price: Rs.771.33  buffer=302
+[13:43:53]  S=Rs.771.33  bid=Rs.771.13  ask=Rs.771.52  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.29  inv=+8  costs=Rs.37.32  Net P&L=Rs.+26.11
+[13:44:23] Price: Rs.771.38  buffer=303
+  BUY  @ Rs.771.18  inv=+9  regime=Low Vol
+[13:44:23]  S=Rs.771.38  bid=Rs.771.18  ask=Rs.771.57  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.28  inv=+8  costs=Rs.37.35  Net P&L=Rs.+26.69
+[13:44:53] Price: Rs.771.38  buffer=304
+[13:44:53]  S=Rs.771.38  bid=Rs.771.18  ask=Rs.771.57  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.28  inv=+9  costs=Rs.37.35  Net P&L=Rs.+26.69
+[13:45:24] Price: Rs.771.25  buffer=305
+  SELL @ Rs.771.45  inv=+8  regime=Low Vol
+[13:45:24]  S=Rs.771.25  bid=Rs.771.05  ask=Rs.771.45  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.28  inv=+9  costs=Rs.37.57  Net P&L=Rs.+25.54
+[13:45:54] Price: Rs.771.25  buffer=306
+  BUY  @ Rs.771.05  inv=+9  regime=Low Vol
+  SELL @ Rs.771.45  inv=+8  regime=Low Vol
+[13:45:54]  S=Rs.771.25  bid=Rs.771.05  ask=Rs.771.45  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.28  inv=+8  costs=Rs.37.82  Net P&L=Rs.+25.69
+[13:46:24] Price: Rs.771.27  buffer=307
+  BUY  @ Rs.771.08  inv=+9  regime=Low Vol
+  SELL @ Rs.771.47  inv=+8  regime=Low Vol
+[13:46:24]  S=Rs.771.27  bid=Rs.771.08  ask=Rs.771.47  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.28  inv=+8  costs=Rs.38.06  Net P&L=Rs.+26.04
+[13:46:54] Price: Rs.771.27  buffer=308
+[13:46:54]  S=Rs.771.27  bid=Rs.771.08  ask=Rs.771.47  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.28  inv=+8  costs=Rs.38.06  Net P&L=Rs.+26.04
+[13:47:24] Price: Rs.771.38  buffer=309
+  BUY  @ Rs.771.18  inv=+9  regime=Low Vol
+[13:47:24]  S=Rs.771.38  bid=Rs.771.18  ask=Rs.771.57  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.27  inv=+8  costs=Rs.38.09  Net P&L=Rs.+27.01
+[13:47:54] Price: Rs.771.38  buffer=310
+  BUY  @ Rs.771.18  inv=+10  regime=Low Vol
+  SELL @ Rs.771.57  inv=+9  regime=Low Vol
+[13:47:54]  S=Rs.771.38  bid=Rs.771.18  ask=Rs.771.57  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.27  inv=+9  costs=Rs.38.34  Net P&L=Rs.+27.16
+[13:48:25] Price: Rs.771.30  buffer=311
+  SELL @ Rs.771.50  inv=+8  regime=Low Vol
+[13:48:25]  S=Rs.771.30  bid=Rs.771.10  ask=Rs.771.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.27  inv=+9  costs=Rs.38.55  Net P&L=Rs.+26.46
+[13:48:55] Price: Rs.771.30  buffer=312
+[13:48:55]  S=Rs.771.30  bid=Rs.771.10  ask=Rs.771.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.27  inv=+8  costs=Rs.38.55  Net P&L=Rs.+26.46
+[13:49:25] Price: Rs.771.27  buffer=313
+[13:49:25]  S=Rs.771.27  bid=Rs.771.08  ask=Rs.771.47  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.27  inv=+8  costs=Rs.38.55  Net P&L=Rs.+26.26
+[13:49:55] Price: Rs.771.27  buffer=314
+  BUY  @ Rs.771.08  inv=+9  regime=Low Vol
+  SELL @ Rs.771.47  inv=+8  regime=Low Vol
+[13:49:55]  S=Rs.771.27  bid=Rs.771.08  ask=Rs.771.47  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.27  inv=+8  costs=Rs.38.80  Net P&L=Rs.+26.41
+[13:50:25] Price: Rs.771.42  buffer=315
+  BUY  @ Rs.771.23  inv=+9  regime=Low Vol
+[13:50:25]  S=Rs.771.42  bid=Rs.771.23  ask=Rs.771.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.27  inv=+8  costs=Rs.38.83  Net P&L=Rs.+27.78
+[13:50:56] Price: Rs.771.42  buffer=316
+[13:50:56]  S=Rs.771.42  bid=Rs.771.23  ask=Rs.771.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.27  inv=+9  costs=Rs.38.83  Net P&L=Rs.+27.78
+[13:51:26] Price: Rs.771.52  buffer=317
+  BUY  @ Rs.771.33  inv=+10  regime=Low Vol
+[13:51:26]  S=Rs.771.52  bid=Rs.771.33  ask=Rs.771.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.26  inv=+9  costs=Rs.38.85  Net P&L=Rs.+28.86
+[13:51:56] Price: Rs.771.52  buffer=318
+[13:51:56]  S=Rs.771.52  bid=Rs.771.33  ask=Rs.771.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00012  T=0.26  inv=+10  costs=Rs.38.85  Net P&L=Rs.+28.86
+[13:52:26] Price: Rs.771.55  buffer=319
+[13:52:26]  S=Rs.771.55  bid=Rs.771.35  ask=Rs.771.75  regime=Low Vol  delta=Rs.0.3961  sigma=0.00012  T=0.26  inv=+10  costs=Rs.38.85  Net P&L=Rs.+29.11
+[13:52:56] Price: Rs.771.55  buffer=320
+[13:52:56]  S=Rs.771.55  bid=Rs.771.35  ask=Rs.771.75  regime=Low Vol  delta=Rs.0.3961  sigma=0.00010  T=0.26  inv=+10  costs=Rs.38.85  Net P&L=Rs.+29.11
+[13:53:27] Price: Rs.771.67  buffer=321
+[13:53:27]  S=Rs.771.67  bid=Rs.771.48  ask=Rs.771.87  regime=Low Vol  delta=Rs.0.3961  sigma=0.00010  T=0.26  inv=+10  costs=Rs.38.85  Net P&L=Rs.+30.36
+[13:53:57] Price: Rs.771.67  buffer=322
+[13:53:57]  S=Rs.771.67  bid=Rs.771.48  ask=Rs.771.87  regime=Low Vol  delta=Rs.0.3961  sigma=0.00010  T=0.26  inv=+10  costs=Rs.38.85  Net P&L=Rs.+30.36
+[13:54:27] Price: Rs.771.68  buffer=323
+[13:54:27]  S=Rs.771.68  bid=Rs.771.48  ask=Rs.771.87  regime=Low Vol  delta=Rs.0.3961  sigma=0.00010  T=0.26  inv=+10  costs=Rs.38.85  Net P&L=Rs.+30.36
+[13:54:57] Price: Rs.771.68  buffer=324
+  SELL @ Rs.771.87  inv=+9  regime=Low Vol
+[13:54:57]  S=Rs.771.68  bid=Rs.771.48  ask=Rs.771.87  regime=Low Vol  delta=Rs.0.3961  sigma=0.00009  T=0.26  inv=+10  costs=Rs.39.07  Net P&L=Rs.+30.34
+[13:55:27] Price: Rs.772.38  buffer=325
+  BUY  @ Rs.772.18  inv=+10  regime=Low Vol
+[13:55:27]  S=Rs.772.38  bid=Rs.772.18  ask=Rs.772.57  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.25  inv=+9  costs=Rs.39.10  Net P&L=Rs.+36.81
+[13:55:58] Price: Rs.772.38  buffer=326
+  SELL @ Rs.772.57  inv=+9  regime=Low Vol
+[13:55:58]  S=Rs.772.38  bid=Rs.772.18  ask=Rs.772.57  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.25  inv=+10  costs=Rs.39.32  Net P&L=Rs.+36.78
+[13:56:28] Price: Rs.772.42  buffer=327
+  BUY  @ Rs.772.23  inv=+10  regime=Low Vol
+  SELL @ Rs.772.62  inv=+9  regime=Low Vol
+[13:56:28]  S=Rs.772.42  bid=Rs.772.23  ask=Rs.772.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.25  inv=+9  costs=Rs.39.57  Net P&L=Rs.+37.38
+[13:56:58] Price: Rs.772.42  buffer=328
+  BUY  @ Rs.772.23  inv=+10  regime=Low Vol
+  SELL @ Rs.772.62  inv=+9  regime=Low Vol
+[13:56:58]  S=Rs.772.42  bid=Rs.772.23  ask=Rs.772.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.25  inv=+9  costs=Rs.39.81  Net P&L=Rs.+37.53
+[13:57:28] Price: Rs.772.02  buffer=329
+  SELL @ Rs.772.22  inv=+8  regime=Low Vol
+[13:57:28]  S=Rs.772.02  bid=Rs.771.83  ask=Rs.772.22  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.25  inv=+9  costs=Rs.40.03  Net P&L=Rs.+33.91
+[13:57:58] Price: Rs.772.02  buffer=330
+  BUY  @ Rs.771.83  inv=+9  regime=Low Vol
+  SELL @ Rs.772.22  inv=+8  regime=Low Vol
+[13:57:58]  S=Rs.772.02  bid=Rs.771.83  ask=Rs.772.22  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.25  inv=+8  costs=Rs.40.28  Net P&L=Rs.+34.06
+[13:58:28] Price: Rs.771.88  buffer=331
+  SELL @ Rs.772.07  inv=+7  regime=Low Vol
+[13:58:28]  S=Rs.771.88  bid=Rs.771.68  ask=Rs.772.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.25  inv=+8  costs=Rs.40.50  Net P&L=Rs.+32.84
+[13:58:59] Price: Rs.771.88  buffer=332
+  BUY  @ Rs.771.68  inv=+8  regime=Low Vol
+  SELL @ Rs.772.07  inv=+7  regime=Low Vol
+[13:58:59]  S=Rs.771.88  bid=Rs.771.68  ask=Rs.772.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.25  inv=+7  costs=Rs.40.74  Net P&L=Rs.+32.99
+[13:59:29] Price: Rs.771.48  buffer=333
+  SELL @ Rs.771.67  inv=+6  regime=Low Vol
+[13:59:29]  S=Rs.771.48  bid=Rs.771.28  ask=Rs.771.67  regime=Low Vol  delta=Rs.0.3961  sigma=0.00023  T=0.24  inv=+7  costs=Rs.40.96  Net P&L=Rs.+30.17
+[13:59:59] Price: Rs.771.48  buffer=334
+  BUY  @ Rs.771.28  inv=+7  regime=Low Vol
+  SELL @ Rs.771.67  inv=+6  regime=Low Vol
+[13:59:59]  S=Rs.771.48  bid=Rs.771.28  ask=Rs.771.67  regime=Low Vol  delta=Rs.0.3961  sigma=0.00023  T=0.24  inv=+6  costs=Rs.41.21  Net P&L=Rs.+30.32
+[14:00:29] Price: Rs.771.23  buffer=335
+  SELL @ Rs.771.42  inv=+5  regime=Low Vol
+[14:00:29]  S=Rs.771.23  bid=Rs.771.03  ask=Rs.771.42  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.24  inv=+6  costs=Rs.41.43  Net P&L=Rs.+28.80
+[14:00:59] Price: Rs.771.23  buffer=336
+  BUY  @ Rs.771.03  inv=+6  regime=Low Vol
+  SELL @ Rs.771.42  inv=+5  regime=Low Vol
+[14:00:59]  S=Rs.771.23  bid=Rs.771.03  ask=Rs.771.42  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.24  inv=+5  costs=Rs.41.68  Net P&L=Rs.+28.95
+[14:01:30] Price: Rs.771.18  buffer=337
+  BUY  @ Rs.770.98  inv=+6  regime=Low Vol
+  SELL @ Rs.771.37  inv=+5  regime=Low Vol
+[14:01:30]  S=Rs.771.18  bid=Rs.770.98  ask=Rs.771.37  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.24  inv=+5  costs=Rs.41.92  Net P&L=Rs.+28.85
+[14:02:00] Price: Rs.771.18  buffer=338
+  BUY  @ Rs.770.98  inv=+6  regime=Low Vol
+  SELL @ Rs.771.37  inv=+5  regime=Low Vol
+[14:02:00]  S=Rs.771.18  bid=Rs.770.98  ask=Rs.771.37  regime=Low Vol  delta=Rs.0.3961  sigma=0.00023  T=0.23  inv=+5  costs=Rs.42.17  Net P&L=Rs.+29.00
+[14:02:30] Price: Rs.771.23  buffer=339
+  BUY  @ Rs.771.03  inv=+6  regime=Low Vol
+  SELL @ Rs.771.42  inv=+5  regime=Low Vol
+[14:02:30]  S=Rs.771.23  bid=Rs.771.03  ask=Rs.771.42  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.23  inv=+5  costs=Rs.42.41  Net P&L=Rs.+29.40
+[14:03:01] Price: Rs.771.23  buffer=340
+  BUY  @ Rs.771.03  inv=+6  regime=Low Vol
+  SELL @ Rs.771.42  inv=+5  regime=Low Vol
+[14:03:01]  S=Rs.771.23  bid=Rs.771.03  ask=Rs.771.42  regime=Low Vol  delta=Rs.0.3961  sigma=0.00023  T=0.23  inv=+5  costs=Rs.42.66  Net P&L=Rs.+29.55
+[14:03:31] Price: Rs.771.05  buffer=341
+  SELL @ Rs.771.25  inv=+4  regime=Low Vol
+[14:03:31]  S=Rs.771.05  bid=Rs.770.85  ask=Rs.771.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.23  inv=+5  costs=Rs.42.88  Net P&L=Rs.+28.65
+[14:04:01] Price: Rs.771.05  buffer=342
+  BUY  @ Rs.770.85  inv=+5  regime=Low Vol
+  SELL @ Rs.771.25  inv=+4  regime=Low Vol
+[14:04:01]  S=Rs.771.05  bid=Rs.770.85  ask=Rs.771.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.23  inv=+4  costs=Rs.43.13  Net P&L=Rs.+28.80
+[14:04:31] Price: Rs.770.95  buffer=343
+  BUY  @ Rs.770.75  inv=+5  regime=Low Vol
+  SELL @ Rs.771.15  inv=+4  regime=Low Vol
+[14:04:31]  S=Rs.770.95  bid=Rs.770.75  ask=Rs.771.15  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.23  inv=+4  costs=Rs.43.37  Net P&L=Rs.+28.55
+[14:05:01] Price: Rs.770.95  buffer=344
+  BUY  @ Rs.770.75  inv=+5  regime=Low Vol
+  SELL @ Rs.771.15  inv=+4  regime=Low Vol
+[14:05:01]  S=Rs.770.95  bid=Rs.770.75  ask=Rs.771.15  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.23  inv=+4  costs=Rs.43.62  Net P&L=Rs.+28.70
+[14:05:31] Price: Rs.770.88  buffer=345
+  BUY  @ Rs.770.68  inv=+5  regime=Low Vol
+  SELL @ Rs.771.07  inv=+4  regime=Low Vol
+[14:05:31]  S=Rs.770.88  bid=Rs.770.68  ask=Rs.771.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.23  inv=+4  costs=Rs.43.86  Net P&L=Rs.+28.55
+[14:06:02] Price: Rs.770.88  buffer=346
+  BUY  @ Rs.770.68  inv=+5  regime=Low Vol
+  SELL @ Rs.771.07  inv=+4  regime=Low Vol
+[14:06:02]  S=Rs.770.88  bid=Rs.770.68  ask=Rs.771.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00023  T=0.22  inv=+4  costs=Rs.44.11  Net P&L=Rs.+28.70
+[14:06:32] Price: Rs.771.05  buffer=347
+  BUY  @ Rs.770.85  inv=+5  regime=Low Vol
+  SELL @ Rs.771.25  inv=+4  regime=Low Vol
+[14:06:32]  S=Rs.771.05  bid=Rs.770.85  ask=Rs.771.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.22  inv=+4  costs=Rs.44.36  Net P&L=Rs.+29.55
+[14:07:02] Price: Rs.771.05  buffer=348
+  BUY  @ Rs.770.85  inv=+5  regime=Low Vol
+  SELL @ Rs.771.25  inv=+4  regime=Low Vol
+[14:07:02]  S=Rs.771.05  bid=Rs.770.85  ask=Rs.771.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.22  inv=+4  costs=Rs.44.60  Net P&L=Rs.+29.70
+[14:07:32] Price: Rs.771.05  buffer=349
+  BUY  @ Rs.770.85  inv=+5  regime=Low Vol
+  SELL @ Rs.771.25  inv=+4  regime=Low Vol
+[14:07:32]  S=Rs.771.05  bid=Rs.770.85  ask=Rs.771.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.22  inv=+4  costs=Rs.44.85  Net P&L=Rs.+29.85
+[14:08:03] Price: Rs.771.05  buffer=350
+  BUY  @ Rs.770.85  inv=+5  regime=Low Vol
+  SELL @ Rs.771.25  inv=+4  regime=Low Vol
+[14:08:03]  S=Rs.771.05  bid=Rs.770.85  ask=Rs.771.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.22  inv=+4  costs=Rs.45.09  Net P&L=Rs.+30.00
+[14:08:33] Price: Rs.771.18  buffer=351
+  BUY  @ Rs.770.98  inv=+5  regime=Low Vol
+[14:08:33]  S=Rs.771.18  bid=Rs.770.98  ask=Rs.771.37  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.22  inv=+4  costs=Rs.45.12  Net P&L=Rs.+30.67
+[14:09:03] Price: Rs.771.58  buffer=352
+  BUY  @ Rs.771.38  inv=+6  regime=Low Vol
+[14:09:03]  S=Rs.771.58  bid=Rs.771.38  ask=Rs.771.77  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.22  inv=+5  costs=Rs.45.15  Net P&L=Rs.+32.84
+[14:09:33] Price: Rs.771.58  buffer=353
+[14:09:33]  S=Rs.771.58  bid=Rs.771.38  ask=Rs.771.77  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.22  inv=+6  costs=Rs.45.15  Net P&L=Rs.+32.84
+[14:10:03] Price: Rs.771.48  buffer=354
+  SELL @ Rs.771.67  inv=+5  regime=Low Vol
+[14:10:03]  S=Rs.771.48  bid=Rs.771.28  ask=Rs.771.67  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.21  inv=+6  costs=Rs.45.37  Net P&L=Rs.+32.22
+[14:10:34] Price: Rs.771.48  buffer=355
+  BUY  @ Rs.771.28  inv=+6  regime=Low Vol
+  SELL @ Rs.771.67  inv=+5  regime=Low Vol
+[14:10:34]  S=Rs.771.48  bid=Rs.771.28  ask=Rs.771.67  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.21  inv=+5  costs=Rs.45.61  Net P&L=Rs.+32.37
+[14:11:04] Price: Rs.771.42  buffer=356
+  SELL @ Rs.771.62  inv=+4  regime=Low Vol
+[14:11:04]  S=Rs.771.42  bid=Rs.771.23  ask=Rs.771.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.21  inv=+5  costs=Rs.45.83  Net P&L=Rs.+32.10
+[14:11:34] Price: Rs.771.42  buffer=357
+[14:11:34]  S=Rs.771.42  bid=Rs.771.23  ask=Rs.771.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.21  inv=+4  costs=Rs.45.83  Net P&L=Rs.+32.10
+[14:12:04] Price: Rs.771.45  buffer=358
+[14:12:04]  S=Rs.771.45  bid=Rs.771.25  ask=Rs.771.65  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.21  inv=+4  costs=Rs.45.83  Net P&L=Rs.+32.20
+[14:12:34] Price: Rs.771.45  buffer=359
+  BUY  @ Rs.771.25  inv=+5  regime=Low Vol
+  SELL @ Rs.771.65  inv=+4  regime=Low Vol
+[14:12:34]  S=Rs.771.45  bid=Rs.771.25  ask=Rs.771.65  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.21  inv=+4  costs=Rs.46.08  Net P&L=Rs.+32.35
+[14:13:05] Price: Rs.771.30  buffer=360
+  SELL @ Rs.771.50  inv=+3  regime=Low Vol
+[14:13:05]  S=Rs.771.30  bid=Rs.771.10  ask=Rs.771.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.21  inv=+4  costs=Rs.46.30  Net P&L=Rs.+31.73
+[14:13:35] Price: Rs.771.30  buffer=361
+  BUY  @ Rs.771.10  inv=+4  regime=Low Vol
+  SELL @ Rs.771.50  inv=+3  regime=Low Vol
+[14:13:35]  S=Rs.771.30  bid=Rs.771.10  ask=Rs.771.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.21  inv=+3  costs=Rs.46.54  Net P&L=Rs.+31.88
+[14:14:05] Price: Rs.771.25  buffer=362
+  SELL @ Rs.771.45  inv=+2  regime=Low Vol
+[14:14:05]  S=Rs.771.25  bid=Rs.771.05  ask=Rs.771.45  regime=Low Vol  delta=Rs.0.3961  sigma=0.00014  T=0.20  inv=+3  costs=Rs.46.76  Net P&L=Rs.+31.71
+[14:14:35] Price: Rs.771.25  buffer=363
+  BUY  @ Rs.771.05  inv=+3  regime=Low Vol
+  SELL @ Rs.771.45  inv=+2  regime=Low Vol
+[14:14:35]  S=Rs.771.25  bid=Rs.771.05  ask=Rs.771.45  regime=Low Vol  delta=Rs.0.3961  sigma=0.00014  T=0.20  inv=+2  costs=Rs.47.01  Net P&L=Rs.+31.86
+[14:15:05] Price: Rs.770.95  buffer=364
+  SELL @ Rs.771.15  inv=+1  regime=Low Vol
+[14:15:05]  S=Rs.770.95  bid=Rs.770.75  ask=Rs.771.15  regime=Low Vol  delta=Rs.0.3961  sigma=0.00015  T=0.20  inv=+2  costs=Rs.47.23  Net P&L=Rs.+31.24
+[14:15:36] Price: Rs.770.95  buffer=365
+  BUY  @ Rs.770.75  inv=+2  regime=Low Vol
+  SELL @ Rs.771.15  inv=+1  regime=Low Vol
+[14:15:36]  S=Rs.770.95  bid=Rs.770.75  ask=Rs.771.15  regime=Low Vol  delta=Rs.0.3961  sigma=0.00015  T=0.20  inv=+1  costs=Rs.47.47  Net P&L=Rs.+31.39
+[14:16:06] Price: Rs.771.38  buffer=366
+  BUY  @ Rs.771.18  inv=+2  regime=Low Vol
+[14:16:06]  S=Rs.771.38  bid=Rs.771.18  ask=Rs.771.57  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.20  inv=+1  costs=Rs.47.50  Net P&L=Rs.+31.98
+[14:16:36] Price: Rs.771.38  buffer=367
+[14:16:36]  S=Rs.771.38  bid=Rs.771.18  ask=Rs.771.57  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.20  inv=+2  costs=Rs.47.50  Net P&L=Rs.+31.98
+[14:17:06] Price: Rs.771.12  buffer=368
+  SELL @ Rs.771.32  inv=+1  regime=Low Vol
+[14:17:06]  S=Rs.771.12  bid=Rs.770.93  ask=Rs.771.32  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.19  inv=+2  costs=Rs.47.72  Net P&L=Rs.+31.46
+[14:17:37] Price: Rs.771.12  buffer=369
+  BUY  @ Rs.770.93  inv=+2  regime=Low Vol
+  SELL @ Rs.771.32  inv=+1  regime=Low Vol
+[14:17:37]  S=Rs.771.12  bid=Rs.770.93  ask=Rs.771.32  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.19  inv=+1  costs=Rs.47.97  Net P&L=Rs.+31.61
+[14:18:07] Price: Rs.770.98  buffer=370
+  BUY  @ Rs.770.78  inv=+2  regime=Low Vol
+  SELL @ Rs.771.17  inv=+1  regime=Low Vol
+[14:18:07]  S=Rs.770.98  bid=Rs.770.78  ask=Rs.771.17  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.19  inv=+1  costs=Rs.48.21  Net P&L=Rs.+31.61
+[14:18:37] Price: Rs.770.98  buffer=371
+  BUY  @ Rs.770.78  inv=+2  regime=Low Vol
+  SELL @ Rs.771.17  inv=+1  regime=Low Vol
+[14:18:37]  S=Rs.770.98  bid=Rs.770.78  ask=Rs.771.17  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.19  inv=+1  costs=Rs.48.46  Net P&L=Rs.+31.76
+[14:19:07] Price: Rs.771.18  buffer=372
+  BUY  @ Rs.770.98  inv=+2  regime=Low Vol
+[14:19:07]  S=Rs.771.18  bid=Rs.770.98  ask=Rs.771.37  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.19  inv=+1  costs=Rs.48.49  Net P&L=Rs.+32.13
+[14:19:37] Price: Rs.771.18  buffer=373
+  BUY  @ Rs.770.98  inv=+3  regime=Low Vol
+  SELL @ Rs.771.37  inv=+2  regime=Low Vol
+[14:19:37]  S=Rs.771.18  bid=Rs.770.98  ask=Rs.771.37  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.19  inv=+2  costs=Rs.48.73  Net P&L=Rs.+32.28
+[14:20:08] Price: Rs.771.15  buffer=374
+  BUY  @ Rs.770.95  inv=+3  regime=Low Vol
+  SELL @ Rs.771.35  inv=+2  regime=Low Vol
+[14:20:08]  S=Rs.771.15  bid=Rs.770.95  ask=Rs.771.35  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.19  inv=+2  costs=Rs.48.98  Net P&L=Rs.+32.38
+[14:20:38] Price: Rs.771.15  buffer=375
+  BUY  @ Rs.770.95  inv=+3  regime=Low Vol
+  SELL @ Rs.771.35  inv=+2  regime=Low Vol
+[14:20:38]  S=Rs.771.15  bid=Rs.770.95  ask=Rs.771.35  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.19  inv=+2  costs=Rs.49.22  Net P&L=Rs.+32.53
+[14:21:08] Price: Rs.771.23  buffer=376
+  BUY  @ Rs.771.03  inv=+3  regime=Low Vol
+[14:21:08]  S=Rs.771.23  bid=Rs.771.03  ask=Rs.771.42  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.18  inv=+2  costs=Rs.49.25  Net P&L=Rs.+32.85
+[14:21:38] Price: Rs.771.23  buffer=377
+  BUY  @ Rs.771.03  inv=+4  regime=Low Vol
+  SELL @ Rs.771.42  inv=+3  regime=Low Vol
+[14:21:38]  S=Rs.771.23  bid=Rs.771.03  ask=Rs.771.42  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.18  inv=+3  costs=Rs.49.50  Net P&L=Rs.+33.00
+[14:22:08] Price: Rs.771.30  buffer=378
+  BUY  @ Rs.771.10  inv=+4  regime=Low Vol
+  SELL @ Rs.771.50  inv=+3  regime=Low Vol
+[14:22:08]  S=Rs.771.30  bid=Rs.771.10  ask=Rs.771.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.18  inv=+3  costs=Rs.49.74  Net P&L=Rs.+33.38
+[14:22:39] Price: Rs.771.30  buffer=379
+  BUY  @ Rs.771.10  inv=+4  regime=Low Vol
+  SELL @ Rs.771.50  inv=+3  regime=Low Vol
+[14:22:39]  S=Rs.771.30  bid=Rs.771.10  ask=Rs.771.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.18  inv=+3  costs=Rs.49.99  Net P&L=Rs.+33.53
+[14:23:09] Price: Rs.771.23  buffer=380
+  SELL @ Rs.771.42  inv=+2  regime=Low Vol
+[14:23:09]  S=Rs.771.23  bid=Rs.771.03  ask=Rs.771.42  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.18  inv=+3  costs=Rs.50.21  Net P&L=Rs.+33.28
+[14:23:39] Price: Rs.771.23  buffer=381
+  BUY  @ Rs.771.03  inv=+3  regime=Low Vol
+  SELL @ Rs.771.42  inv=+2  regime=Low Vol
+[14:23:39]  S=Rs.771.23  bid=Rs.771.03  ask=Rs.771.42  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.18  inv=+2  costs=Rs.50.45  Net P&L=Rs.+33.43
+[14:24:09] Price: Rs.771.30  buffer=382
+  BUY  @ Rs.771.10  inv=+3  regime=Low Vol
+[14:24:09]  S=Rs.771.30  bid=Rs.771.10  ask=Rs.771.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.18  inv=+2  costs=Rs.50.48  Net P&L=Rs.+33.75
+[14:24:39] Price: Rs.771.30  buffer=383
+  BUY  @ Rs.771.10  inv=+4  regime=Low Vol
+  SELL @ Rs.771.50  inv=+3  regime=Low Vol
+[14:24:39]  S=Rs.771.30  bid=Rs.771.10  ask=Rs.771.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.18  inv=+3  costs=Rs.50.73  Net P&L=Rs.+33.90
+[14:25:10] Price: Rs.771.32  buffer=384
+  BUY  @ Rs.771.13  inv=+4  regime=Low Vol
+  SELL @ Rs.771.52  inv=+3  regime=Low Vol
+[14:25:10]  S=Rs.771.32  bid=Rs.771.13  ask=Rs.771.52  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.17  inv=+3  costs=Rs.50.97  Net P&L=Rs.+34.13
+[14:25:40] Price: Rs.771.32  buffer=385
+  BUY  @ Rs.771.13  inv=+4  regime=Low Vol
+  SELL @ Rs.771.52  inv=+3  regime=Low Vol
+[14:25:40]  S=Rs.771.32  bid=Rs.771.13  ask=Rs.771.52  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.17  inv=+3  costs=Rs.51.22  Net P&L=Rs.+34.28
+[14:26:10] Price: Rs.771.30  buffer=386
+  BUY  @ Rs.771.10  inv=+4  regime=Low Vol
+  SELL @ Rs.771.50  inv=+3  regime=Low Vol
+[14:26:10]  S=Rs.771.30  bid=Rs.771.10  ask=Rs.771.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.17  inv=+3  costs=Rs.51.46  Net P&L=Rs.+34.35
+[14:26:41] Price: Rs.771.30  buffer=387
+  BUY  @ Rs.771.10  inv=+4  regime=Low Vol
+  SELL @ Rs.771.50  inv=+3  regime=Low Vol
+[14:26:41]  S=Rs.771.30  bid=Rs.771.10  ask=Rs.771.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00016  T=0.17  inv=+3  costs=Rs.51.71  Net P&L=Rs.+34.50
+[14:27:11] Price: Rs.771.05  buffer=388
+  SELL @ Rs.771.25  inv=+2  regime=Low Vol
+[14:27:11]  S=Rs.771.05  bid=Rs.770.85  ask=Rs.771.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.17  inv=+3  costs=Rs.51.93  Net P&L=Rs.+33.73
+[14:27:41] Price: Rs.771.05  buffer=389
+  BUY  @ Rs.770.85  inv=+3  regime=Low Vol
+  SELL @ Rs.771.25  inv=+2  regime=Low Vol
+[14:27:41]  S=Rs.771.05  bid=Rs.770.85  ask=Rs.771.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.17  inv=+2  costs=Rs.52.18  Net P&L=Rs.+33.88
+[14:28:11] Price: Rs.770.92  buffer=390
+  SELL @ Rs.771.12  inv=+1  regime=Low Vol
+[14:28:11]  S=Rs.770.92  bid=Rs.770.73  ask=Rs.771.12  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.17  inv=+2  costs=Rs.52.40  Net P&L=Rs.+33.61
+[14:28:42] Price: Rs.770.92  buffer=391
+  BUY  @ Rs.770.73  inv=+2  regime=Low Vol
+  SELL @ Rs.771.12  inv=+1  regime=Low Vol
+[14:28:42]  S=Rs.770.92  bid=Rs.770.73  ask=Rs.771.12  regime=Low Vol  delta=Rs.0.3961  sigma=0.00017  T=0.17  inv=+1  costs=Rs.52.64  Net P&L=Rs.+33.76
+[14:29:12] Price: Rs.770.52  buffer=392
+  SELL @ Rs.770.72  inv=+0  regime=Low Vol
+[14:29:12]  S=Rs.770.52  bid=Rs.770.33  ask=Rs.770.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.16  inv=+1  costs=Rs.52.86  Net P&L=Rs.+33.34
+[14:29:42] Price: Rs.770.52  buffer=393
+  BUY  @ Rs.770.33  inv=+1  regime=Low Vol
+  SELL @ Rs.770.72  inv=+0  regime=Low Vol
+[14:29:42]  S=Rs.770.52  bid=Rs.770.33  ask=Rs.770.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00018  T=0.16  inv=+0  costs=Rs.53.11  Net P&L=Rs.+33.49
+[14:30:12] Price: Rs.771.05  buffer=394
+  BUY  @ Rs.770.85  inv=+1  regime=Low Vol
+[14:30:12]  S=Rs.771.05  bid=Rs.770.85  ask=Rs.771.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00022  T=0.16  inv=+0  costs=Rs.53.13  Net P&L=Rs.+33.66
+[14:30:42] Price: Rs.771.05  buffer=395
+  BUY  @ Rs.770.85  inv=+2  regime=Low Vol
+  SELL @ Rs.771.25  inv=+1  regime=Low Vol
+[14:30:42]  S=Rs.771.05  bid=Rs.770.85  ask=Rs.771.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.16  inv=+1  costs=Rs.53.38  Net P&L=Rs.+33.81
+[14:31:12] Price: Rs.771.12  buffer=396
+  BUY  @ Rs.770.93  inv=+2  regime=Low Vol
+[14:31:12]  S=Rs.771.12  bid=Rs.770.93  ask=Rs.771.32  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.16  inv=+1  costs=Rs.53.41  Net P&L=Rs.+34.06
+[14:31:42] Price: Rs.771.12  buffer=397
+[14:31:42]  S=Rs.771.12  bid=Rs.770.93  ask=Rs.771.32  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.16  inv=+2  costs=Rs.53.41  Net P&L=Rs.+34.06
+[14:32:13] Price: Rs.771.00  buffer=398
+  SELL @ Rs.771.20  inv=+1  regime=Low Vol
+[14:32:13]  S=Rs.771.00  bid=Rs.770.80  ask=Rs.771.20  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.15  inv=+2  costs=Rs.53.63  Net P&L=Rs.+33.79
+[14:32:43] Price: Rs.771.00  buffer=399
+  BUY  @ Rs.770.80  inv=+2  regime=Low Vol
+  SELL @ Rs.771.20  inv=+1  regime=Low Vol
+[14:32:43]  S=Rs.771.00  bid=Rs.770.80  ask=Rs.771.20  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.15  inv=+1  costs=Rs.53.87  Net P&L=Rs.+33.94
+[14:33:13] Price: Rs.770.70  buffer=400
+  SELL @ Rs.770.90  inv=+0  regime=Low Vol
+[14:33:13]  S=Rs.770.70  bid=Rs.770.50  ask=Rs.770.90  regime=Low Vol  delta=Rs.0.3961  sigma=0.00020  T=0.15  inv=+1  costs=Rs.54.09  Net P&L=Rs.+33.62
+[14:33:43] Price: Rs.770.70  buffer=401
+  BUY  @ Rs.770.50  inv=+1  regime=Low Vol
+  SELL @ Rs.770.90  inv=+0  regime=Low Vol
+[14:33:43]  S=Rs.770.70  bid=Rs.770.50  ask=Rs.770.90  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.15  inv=+0  costs=Rs.54.34  Net P&L=Rs.+33.77
+[14:34:13] Price: Rs.770.73  buffer=402
+  BUY  @ Rs.770.53  inv=+1  regime=Low Vol
+[14:34:13]  S=Rs.770.73  bid=Rs.770.53  ask=Rs.770.92  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.15  inv=+0  costs=Rs.54.36  Net P&L=Rs.+33.94
+[14:34:44] Price: Rs.770.73  buffer=403
+[14:34:44]  S=Rs.770.73  bid=Rs.770.53  ask=Rs.770.92  regime=Low Vol  delta=Rs.0.3961  sigma=0.00019  T=0.15  inv=+1  costs=Rs.54.36  Net P&L=Rs.+33.94
+[14:35:14] Price: Rs.771.05  buffer=404
+  BUY  @ Rs.770.85  inv=+2  regime=Low Vol
+[14:35:14]  S=Rs.771.05  bid=Rs.770.85  ask=Rs.771.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.15  inv=+1  costs=Rs.54.39  Net P&L=Rs.+34.43
+[14:35:44] Price: Rs.771.05  buffer=405
+  BUY  @ Rs.770.85  inv=+3  regime=Low Vol
+  SELL @ Rs.771.25  inv=+2  regime=Low Vol
+[14:35:44]  S=Rs.771.05  bid=Rs.770.85  ask=Rs.771.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.15  inv=+2  costs=Rs.54.64  Net P&L=Rs.+34.58
+[14:36:14] Price: Rs.770.95  buffer=406
+  SELL @ Rs.771.15  inv=+1  regime=Low Vol
+[14:36:14]  S=Rs.770.95  bid=Rs.770.75  ask=Rs.771.15  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.14  inv=+2  costs=Rs.54.86  Net P&L=Rs.+34.36
+[14:36:44] Price: Rs.770.95  buffer=407
+  BUY  @ Rs.770.75  inv=+2  regime=Low Vol
+  SELL @ Rs.771.15  inv=+1  regime=Low Vol
+[14:36:44]  S=Rs.770.95  bid=Rs.770.75  ask=Rs.771.15  regime=Low Vol  delta=Rs.0.3961  sigma=0.00021  T=0.14  inv=+1  costs=Rs.55.10  Net P&L=Rs.+34.51
+[14:37:15] Price: Rs.770.52  buffer=408
+  SELL @ Rs.770.72  inv=+0  regime=Low Vol
+[14:37:15]  S=Rs.770.52  bid=Rs.770.33  ask=Rs.770.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00023  T=0.14  inv=+1  costs=Rs.55.32  Net P&L=Rs.+34.07
+[14:37:45] Price: Rs.770.52  buffer=409
+  BUY  @ Rs.770.33  inv=+1  regime=Low Vol
+  SELL @ Rs.770.72  inv=+0  regime=Low Vol
+[14:37:45]  S=Rs.770.52  bid=Rs.770.33  ask=Rs.770.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00023  T=0.14  inv=+0  costs=Rs.55.57  Net P&L=Rs.+34.22
+[14:38:15] Price: Rs.770.05  buffer=410
+  SELL @ Rs.770.25  inv=-1  regime=Low Vol
+[14:38:15]  S=Rs.770.05  bid=Rs.769.85  ask=Rs.770.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00025  T=0.14  inv=+0  costs=Rs.55.79  Net P&L=Rs.+34.20
+[14:38:45] Price: Rs.770.05  buffer=411
+  BUY  @ Rs.769.85  inv=+0  regime=Low Vol
+  SELL @ Rs.770.25  inv=-1  regime=Low Vol
+[14:38:45]  S=Rs.770.05  bid=Rs.769.85  ask=Rs.770.25  regime=Low Vol  delta=Rs.0.3961  sigma=0.00025  T=0.14  inv=-1  costs=Rs.56.03  Net P&L=Rs.+34.35
+[14:39:15] Price: Rs.769.80  buffer=412
+  SELL @ Rs.770.00  inv=-2  regime=Low Vol
+[14:39:15]  S=Rs.769.80  bid=Rs.769.60  ask=Rs.770.00  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.14  inv=-1  costs=Rs.56.25  Net P&L=Rs.+34.57
+[14:39:46] Price: Rs.769.80  buffer=413
+  BUY  @ Rs.769.60  inv=-1  regime=Low Vol
+  SELL @ Rs.770.00  inv=-2  regime=Low Vol
+[14:39:46]  S=Rs.769.80  bid=Rs.769.60  ask=Rs.770.00  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.14  inv=-2  costs=Rs.56.50  Net P&L=Rs.+34.72
+[14:40:16] Price: Rs.769.88  buffer=414
+  BUY  @ Rs.769.68  inv=-1  regime=Low Vol
+[14:40:16]  S=Rs.769.88  bid=Rs.769.68  ask=Rs.770.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.13  inv=-2  costs=Rs.56.52  Net P&L=Rs.+34.75
+[14:40:46] Price: Rs.769.88  buffer=415
+  BUY  @ Rs.769.68  inv=+0  regime=Low Vol
+  SELL @ Rs.770.07  inv=-1  regime=Low Vol
+[14:40:46]  S=Rs.769.88  bid=Rs.769.68  ask=Rs.770.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.13  inv=-1  costs=Rs.56.77  Net P&L=Rs.+34.90
+[14:41:16] Price: Rs.769.98  buffer=416
+  BUY  @ Rs.769.78  inv=+0  regime=Low Vol
+  SELL @ Rs.770.17  inv=-1  regime=Low Vol
+[14:41:16]  S=Rs.769.98  bid=Rs.769.78  ask=Rs.770.17  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.13  inv=-1  costs=Rs.57.01  Net P&L=Rs.+34.95
+[14:41:46] Price: Rs.769.98  buffer=417
+[14:41:46]  S=Rs.769.98  bid=Rs.769.78  ask=Rs.770.17  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.13  inv=-1  costs=Rs.57.01  Net P&L=Rs.+34.95
+[14:42:17] Price: Rs.769.90  buffer=418
+  SELL @ Rs.770.10  inv=-2  regime=Low Vol
+[14:42:17]  S=Rs.769.90  bid=Rs.769.70  ask=Rs.770.10  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.13  inv=-1  costs=Rs.57.23  Net P&L=Rs.+35.00
+[14:42:47] Price: Rs.769.90  buffer=419
+[14:42:47]  S=Rs.769.90  bid=Rs.769.70  ask=Rs.770.10  regime=Low Vol  delta=Rs.0.3961  sigma=0.00025  T=0.13  inv=-2  costs=Rs.57.23  Net P&L=Rs.+35.00
+[14:43:17] Price: Rs.769.75  buffer=420
+  SELL @ Rs.769.95  inv=-3  regime=Low Vol
+[14:43:17]  S=Rs.769.75  bid=Rs.769.55  ask=Rs.769.95  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.13  inv=-2  costs=Rs.57.45  Net P&L=Rs.+35.28
+[14:43:47] Price: Rs.769.75  buffer=421
+  BUY  @ Rs.769.55  inv=-2  regime=Low Vol
+  SELL @ Rs.769.95  inv=-3  regime=Low Vol
+[14:43:47]  S=Rs.769.75  bid=Rs.769.55  ask=Rs.769.95  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.13  inv=-3  costs=Rs.57.70  Net P&L=Rs.+35.43
+[14:44:17] Price: Rs.769.10  buffer=422
+  SELL @ Rs.769.30  inv=-4  regime=Low Vol
+[14:44:17]  S=Rs.769.10  bid=Rs.768.90  ask=Rs.769.30  regime=Low Vol  delta=Rs.0.3961  sigma=0.00028  T=0.12  inv=-3  costs=Rs.57.92  Net P&L=Rs.+37.36
+[14:44:47] Price: Rs.769.10  buffer=423
+  BUY  @ Rs.768.90  inv=-3  regime=Low Vol
+  SELL @ Rs.769.30  inv=-4  regime=Low Vol
+[14:44:47]  S=Rs.769.10  bid=Rs.768.90  ask=Rs.769.30  regime=Low Vol  delta=Rs.0.3961  sigma=0.00024  T=0.12  inv=-4  costs=Rs.58.16  Net P&L=Rs.+37.51
+[14:45:18] Price: Rs.769.30  buffer=424
+  BUY  @ Rs.769.10  inv=-3  regime=Low Vol
+  SELL @ Rs.769.50  inv=-4  regime=Low Vol
+[14:45:18]  S=Rs.769.30  bid=Rs.769.10  ask=Rs.769.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00025  T=0.12  inv=-4  costs=Rs.58.41  Net P&L=Rs.+36.86
+[14:45:48] Price: Rs.769.30  buffer=425
+  BUY  @ Rs.769.10  inv=-3  regime=Low Vol
+  SELL @ Rs.769.50  inv=-4  regime=Low Vol
+[14:45:48]  S=Rs.769.30  bid=Rs.769.10  ask=Rs.769.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00025  T=0.12  inv=-4  costs=Rs.58.65  Net P&L=Rs.+37.01
+[14:46:18] Price: Rs.769.60  buffer=426
+  BUY  @ Rs.769.40  inv=-3  regime=Low Vol
+[14:46:18]  S=Rs.769.60  bid=Rs.769.40  ask=Rs.769.80  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.12  inv=-4  costs=Rs.58.68  Net P&L=Rs.+35.98
+[14:46:48] Price: Rs.769.60  buffer=427
+  BUY  @ Rs.769.40  inv=-2  regime=Low Vol
+  SELL @ Rs.769.80  inv=-3  regime=Low Vol
+[14:46:48]  S=Rs.769.60  bid=Rs.769.40  ask=Rs.769.80  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.12  inv=-3  costs=Rs.58.92  Net P&L=Rs.+36.13
+[14:47:18] Price: Rs.769.67  buffer=428
+  BUY  @ Rs.769.48  inv=-2  regime=Low Vol
+  SELL @ Rs.769.87  inv=-3  regime=Low Vol
+[14:47:18]  S=Rs.769.67  bid=Rs.769.48  ask=Rs.769.87  regime=Low Vol  delta=Rs.0.3961  sigma=0.00027  T=0.11  inv=-3  costs=Rs.59.17  Net P&L=Rs.+36.06
+[14:47:49] Price: Rs.769.67  buffer=429
+  BUY  @ Rs.769.48  inv=-2  regime=Low Vol
+  SELL @ Rs.769.87  inv=-3  regime=Low Vol
+[14:47:49]  S=Rs.769.67  bid=Rs.769.48  ask=Rs.769.87  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.11  inv=-3  costs=Rs.59.42  Net P&L=Rs.+36.21
+[14:48:19] Price: Rs.769.50  buffer=430
+  SELL @ Rs.769.70  inv=-4  regime=Low Vol
+[14:48:19]  S=Rs.769.50  bid=Rs.769.30  ask=Rs.769.70  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.11  inv=-3  costs=Rs.59.64  Net P&L=Rs.+36.71
+[14:48:49] Price: Rs.769.50  buffer=431
+  BUY  @ Rs.769.30  inv=-3  regime=Low Vol
+  SELL @ Rs.769.70  inv=-4  regime=Low Vol
+[14:48:49]  S=Rs.769.50  bid=Rs.769.30  ask=Rs.769.70  regime=Low Vol  delta=Rs.0.3961  sigma=0.00026  T=0.11  inv=-4  costs=Rs.59.88  Net P&L=Rs.+36.86
+[14:49:19] Price: Rs.768.95  buffer=432
+  SELL @ Rs.769.15  inv=-5  regime=Low Vol
+[14:49:19]  S=Rs.768.95  bid=Rs.768.75  ask=Rs.769.15  regime=Low Vol  delta=Rs.0.3961  sigma=0.00029  T=0.11  inv=-4  costs=Rs.60.10  Net P&L=Rs.+39.04
+[14:49:50] Price: Rs.768.95  buffer=433
+  BUY  @ Rs.768.75  inv=-4  regime=Low Vol
+  SELL @ Rs.769.15  inv=-5  regime=Low Vol
+[14:49:50]  S=Rs.768.95  bid=Rs.768.75  ask=Rs.769.15  regime=Low Vol  delta=Rs.0.3961  sigma=0.00027  T=0.11  inv=-5  costs=Rs.60.34  Net P&L=Rs.+39.19
+[14:50:20] Price: Rs.768.60  buffer=434
+  SELL @ Rs.768.80  inv=-6  regime=Low Vol
+[14:50:20]  S=Rs.768.60  bid=Rs.768.40  ask=Rs.768.80  regime=Low Vol  delta=Rs.0.3961  sigma=0.00028  T=0.11  inv=-5  costs=Rs.60.56  Net P&L=Rs.+40.92
+[14:50:50] Price: Rs.768.60  buffer=435
+  BUY  @ Rs.768.40  inv=-5  regime=Low Vol
+  SELL @ Rs.768.80  inv=-6  regime=Low Vol
+[14:50:50]  S=Rs.768.60  bid=Rs.768.40  ask=Rs.768.80  regime=Low Vol  delta=Rs.0.3961  sigma=0.00028  T=0.11  inv=-6  costs=Rs.60.81  Net P&L=Rs.+41.07
+[14:51:20] Price: Rs.768.85  buffer=436
+  BUY  @ Rs.768.65  inv=-5  regime=Low Vol
+[14:51:20]  S=Rs.768.85  bid=Rs.768.65  ask=Rs.769.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00029  T=0.10  inv=-6  costs=Rs.60.84  Net P&L=Rs.+39.75
+[14:51:50] Price: Rs.768.85  buffer=437
+  BUY  @ Rs.768.65  inv=-4  regime=Low Vol
+  SELL @ Rs.769.05  inv=-5  regime=Low Vol
+[14:51:50]  S=Rs.768.85  bid=Rs.768.65  ask=Rs.769.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00028  T=0.10  inv=-5  costs=Rs.61.08  Net P&L=Rs.+39.90
+[14:52:20] Price: Rs.769.38  buffer=438
+  BUY  @ Rs.769.18  inv=-4  regime=Low Vol
+[14:52:20]  S=Rs.769.38  bid=Rs.769.18  ask=Rs.769.57  regime=Low Vol  delta=Rs.0.3961  sigma=0.00031  T=0.10  inv=-5  costs=Rs.61.11  Net P&L=Rs.+37.44
+[14:52:51] Price: Rs.769.38  buffer=439
+  BUY  @ Rs.769.18  inv=-3  regime=Low Vol
+  SELL @ Rs.769.57  inv=-4  regime=Low Vol
+[14:52:51]  S=Rs.769.38  bid=Rs.769.18  ask=Rs.769.57  regime=Low Vol  delta=Rs.0.3961  sigma=0.00029  T=0.10  inv=-4  costs=Rs.61.35  Net P&L=Rs.+37.59
+[14:53:21] Price: Rs.768.73  buffer=440
+  SELL @ Rs.768.92  inv=-5  regime=Low Vol
+[14:53:21]  S=Rs.768.73  bid=Rs.768.53  ask=Rs.768.92  regime=Low Vol  delta=Rs.0.3961  sigma=0.00033  T=0.10  inv=-4  costs=Rs.61.57  Net P&L=Rs.+40.17
+[14:53:51] Price: Rs.768.73  buffer=441
+  BUY  @ Rs.768.53  inv=-4  regime=Low Vol
+  SELL @ Rs.768.92  inv=-5  regime=Low Vol
+[14:53:51]  S=Rs.768.73  bid=Rs.768.53  ask=Rs.768.92  regime=Low Vol  delta=Rs.0.3961  sigma=0.00032  T=0.10  inv=-5  costs=Rs.61.82  Net P&L=Rs.+40.32
+[14:54:21] Price: Rs.768.17  buffer=442
+  SELL @ Rs.768.37  inv=-6  regime=Low Vol
+[14:54:21]  S=Rs.768.17  bid=Rs.767.98  ask=Rs.768.37  regime=Low Vol  delta=Rs.0.3961  sigma=0.00034  T=0.10  inv=-5  costs=Rs.62.04  Net P&L=Rs.+43.05
+[14:54:51] Price: Rs.768.17  buffer=443
+[14:54:51]  S=Rs.768.17  bid=Rs.767.98  ask=Rs.768.37  regime=Low Vol  delta=Rs.0.3961  sigma=0.00034  T=0.10  inv=-6  costs=Rs.62.04  Net P&L=Rs.+43.05
+[14:55:22] Price: Rs.768.08  buffer=444
+  SELL @ Rs.768.27  inv=-7  regime=Low Vol
+[14:55:22]  S=Rs.768.08  bid=Rs.767.88  ask=Rs.768.27  regime=Low Vol  delta=Rs.0.3961  sigma=0.00034  T=0.09  inv=-6  costs=Rs.62.25  Net P&L=Rs.+43.63
+[14:55:52] Price: Rs.768.08  buffer=445
+[14:55:52]  S=Rs.768.08  bid=Rs.767.88  ask=Rs.768.27  regime=Low Vol  delta=Rs.0.3961  sigma=0.00034  T=0.09  inv=-7  costs=Rs.62.25  Net P&L=Rs.+43.63
+[14:56:22] Price: Rs.768.15  buffer=446
+[14:56:22]  S=Rs.768.15  bid=Rs.767.95  ask=Rs.768.35  regime=Low Vol  delta=Rs.0.3961  sigma=0.00034  T=0.09  inv=-7  costs=Rs.62.25  Net P&L=Rs.+43.11
+[14:56:52] Price: Rs.768.15  buffer=447
+[14:56:52]  S=Rs.768.15  bid=Rs.767.95  ask=Rs.768.35  regime=Low Vol  delta=Rs.0.3961  sigma=0.00034  T=0.09  inv=-7  costs=Rs.62.25  Net P&L=Rs.+43.11
+[14:57:23] Price: Rs.768.17  buffer=448
+[14:57:23]  S=Rs.768.17  bid=Rs.767.98  ask=Rs.768.37  regime=Low Vol  delta=Rs.0.3961  sigma=0.00034  T=0.09  inv=-7  costs=Rs.62.25  Net P&L=Rs.+42.93
+[14:57:53] Price: Rs.768.17  buffer=449
+[14:57:53]  S=Rs.768.17  bid=Rs.767.98  ask=Rs.768.37  regime=Low Vol  delta=Rs.0.3961  sigma=0.00034  T=0.09  inv=-7  costs=Rs.62.25  Net P&L=Rs.+42.93
+[14:58:23] Price: Rs.768.02  buffer=450
+  SELL @ Rs.768.22  inv=-8  regime=Low Vol
+[14:58:23]  S=Rs.768.02  bid=Rs.767.83  ask=Rs.768.22  regime=Low Vol  delta=Rs.0.3961  sigma=0.00034  T=0.09  inv=-7  costs=Rs.62.47  Net P&L=Rs.+43.96
+[14:58:53] Price: Rs.768.02  buffer=451
+  BUY  @ Rs.767.83  inv=-7  regime=Low Vol
+  SELL @ Rs.768.22  inv=-8  regime=Low Vol
+[14:58:53]  S=Rs.768.02  bid=Rs.767.83  ask=Rs.768.22  regime=Low Vol  delta=Rs.0.3961  sigma=0.00031  T=0.09  inv=-8  costs=Rs.62.72  Net P&L=Rs.+44.11
+[14:59:23] Price: Rs.767.83  buffer=452
+  SELL @ Rs.768.02  inv=-9  regime=Low Vol
+[14:59:23]  S=Rs.767.83  bid=Rs.767.63  ask=Rs.768.02  regime=Low Vol  delta=Rs.0.3961  sigma=0.00031  T=0.08  inv=-8  costs=Rs.62.94  Net P&L=Rs.+45.69
+[14:59:54] Price: Rs.767.83  buffer=453
+[14:59:54]  S=Rs.767.83  bid=Rs.767.63  ask=Rs.768.02  regime=Low Vol  delta=Rs.0.3961  sigma=0.00031  T=0.08  inv=-9  costs=Rs.62.94  Net P&L=Rs.+45.69
+[15:00:24] Price: Rs.767.93  buffer=454
+  BUY  @ Rs.767.73  inv=-8  regime=Low Vol
+[15:00:24]  S=Rs.767.93  bid=Rs.767.73  ask=Rs.768.12  regime=Low Vol  delta=Rs.0.3961  sigma=0.00031  T=0.08  inv=-9  costs=Rs.62.96  Net P&L=Rs.+44.96
+[15:00:54] Price: Rs.767.93  buffer=455
+  BUY  @ Rs.767.73  inv=-7  regime=Low Vol
+  SELL @ Rs.768.12  inv=-8  regime=Low Vol
+[15:00:54]  S=Rs.767.93  bid=Rs.767.73  ask=Rs.768.12  regime=Low Vol  delta=Rs.0.3961  sigma=0.00030  T=0.08  inv=-8  costs=Rs.63.21  Net P&L=Rs.+45.11
+[15:01:24] Price: Rs.766.95  buffer=456
+  SELL @ Rs.767.15  inv=-9  regime=Low Vol
+[15:01:24]  S=Rs.766.95  bid=Rs.766.75  ask=Rs.767.15  regime=Low Vol  delta=Rs.0.3961  sigma=0.00037  T=0.08  inv=-8  costs=Rs.63.43  Net P&L=Rs.+52.89
+[15:01:54] Price: Rs.766.95  buffer=457
+  BUY  @ Rs.766.75  inv=-8  regime=Low Vol
+  SELL @ Rs.767.15  inv=-9  regime=Low Vol
+[15:01:54]  S=Rs.766.95  bid=Rs.766.75  ask=Rs.767.15  regime=Low Vol  delta=Rs.0.3961  sigma=0.00037  T=0.08  inv=-9  costs=Rs.63.67  Net P&L=Rs.+53.05
+[15:02:24] Price: Rs.765.90  buffer=458
+  SELL @ Rs.767.29  inv=-10  regime=Crisis
+[15:02:24]  S=Rs.765.90  bid=Rs.764.51  ask=Rs.767.29  regime=Crisis  delta=Rs.2.7726  sigma=0.00043  T=0.07  inv=-9  costs=Rs.63.89  Net P&L=Rs.+63.66
+[15:02:55] Price: Rs.765.90  buffer=459
+[15:02:55]  S=Rs.765.90  bid=Rs.765.70  ask=Rs.766.10  regime=Low Vol  delta=Rs.0.3961  sigma=0.00043  T=0.07  inv=-10  costs=Rs.63.89  Net P&L=Rs.+63.66
+[15:03:25] Price: Rs.765.90  buffer=460
+[15:03:25]  S=Rs.765.90  bid=Rs.765.70  ask=Rs.766.10  regime=Low Vol  delta=Rs.0.3961  sigma=0.00043  T=0.07  inv=-10  costs=Rs.63.89  Net P&L=Rs.+63.66
+[15:03:55] Price: Rs.765.90  buffer=461
+[15:03:55]  S=Rs.765.90  bid=Rs.765.70  ask=Rs.766.10  regime=Low Vol  delta=Rs.0.3961  sigma=0.00042  T=0.07  inv=-10  costs=Rs.63.89  Net P&L=Rs.+63.66
+[15:04:25] Price: Rs.765.52  buffer=462
+[15:04:25]  S=Rs.765.52  bid=Rs.765.33  ask=Rs.765.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00042  T=0.07  inv=-10  costs=Rs.63.89  Net P&L=Rs.+67.41
+[15:04:55] Price: Rs.765.52  buffer=463
+  BUY  @ Rs.765.33  inv=-9  regime=Low Vol
+  SELL @ Rs.765.72  inv=-10  regime=Low Vol
+[15:04:55]  S=Rs.765.52  bid=Rs.765.33  ask=Rs.765.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00042  T=0.07  inv=-10  costs=Rs.64.13  Net P&L=Rs.+67.57
+[15:05:26] Price: Rs.764.88  buffer=464
+[15:05:26]  S=Rs.764.88  bid=Rs.764.68  ask=Rs.765.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00044  T=0.07  inv=-10  costs=Rs.64.13  Net P&L=Rs.+74.07
+[15:05:56] Price: Rs.764.88  buffer=465
+  BUY  @ Rs.764.68  inv=-9  regime=Low Vol
+  SELL @ Rs.765.07  inv=-10  regime=Low Vol
+[15:05:56]  S=Rs.764.88  bid=Rs.764.68  ask=Rs.765.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00043  T=0.07  inv=-10  costs=Rs.64.38  Net P&L=Rs.+74.22
+[15:06:26] Price: Rs.764.22  buffer=466
+[15:06:26]  S=Rs.764.22  bid=Rs.764.03  ask=Rs.764.42  regime=Low Vol  delta=Rs.0.3961  sigma=0.00045  T=0.06  inv=-10  costs=Rs.64.38  Net P&L=Rs.+80.72
+[15:06:56] Price: Rs.764.22  buffer=467
+  BUY  @ Rs.764.03  inv=-9  regime=Low Vol
+  SELL @ Rs.764.42  inv=-10  regime=Low Vol
+[15:06:56]  S=Rs.764.22  bid=Rs.764.03  ask=Rs.764.42  regime=Low Vol  delta=Rs.0.3961  sigma=0.00042  T=0.06  inv=-10  costs=Rs.64.62  Net P&L=Rs.+80.87
+[15:07:26] Price: Rs.763.52  buffer=468
+[15:07:26]  S=Rs.763.52  bid=Rs.763.33  ask=Rs.763.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00043  T=0.06  inv=-10  costs=Rs.64.62  Net P&L=Rs.+87.87
+[15:07:56] Price: Rs.763.52  buffer=469
+  BUY  @ Rs.763.33  inv=-9  regime=Low Vol
+  SELL @ Rs.763.72  inv=-10  regime=Low Vol
+[15:07:56]  S=Rs.763.52  bid=Rs.763.33  ask=Rs.763.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00042  T=0.06  inv=-10  costs=Rs.64.86  Net P&L=Rs.+88.02
+[15:08:27] Price: Rs.763.30  buffer=470
+[15:08:27]  S=Rs.763.30  bid=Rs.763.10  ask=Rs.763.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00042  T=0.06  inv=-10  costs=Rs.64.86  Net P&L=Rs.+90.27
+[15:08:57] Price: Rs.763.30  buffer=471
+  BUY  @ Rs.763.10  inv=-9  regime=Low Vol
+  SELL @ Rs.763.50  inv=-10  regime=Low Vol
+[15:08:57]  S=Rs.763.30  bid=Rs.763.10  ask=Rs.763.50  regime=Low Vol  delta=Rs.0.3961  sigma=0.00041  T=0.06  inv=-10  costs=Rs.65.11  Net P&L=Rs.+90.43
+[15:09:27] Price: Rs.763.03  buffer=472
+[15:09:27]  S=Rs.763.03  bid=Rs.762.83  ask=Rs.763.22  regime=Low Vol  delta=Rs.0.3961  sigma=0.00041  T=0.06  inv=-10  costs=Rs.65.11  Net P&L=Rs.+93.17
+[15:09:57] Price: Rs.763.03  buffer=473
+[15:09:57]  S=Rs.763.03  bid=Rs.762.83  ask=Rs.763.22  regime=Low Vol  delta=Rs.0.3961  sigma=0.00041  T=0.06  inv=-10  costs=Rs.65.11  Net P&L=Rs.+93.17
+[15:10:27] Price: Rs.763.20  buffer=474
+  BUY  @ Rs.763.00  inv=-9  regime=Low Vol
+[15:10:27]  S=Rs.763.20  bid=Rs.763.00  ask=Rs.763.40  regime=Low Vol  delta=Rs.0.3961  sigma=0.00042  T=0.05  inv=-10  costs=Rs.65.13  Net P&L=Rs.+91.60
+[15:10:58] Price: Rs.763.20  buffer=475
+  BUY  @ Rs.763.00  inv=-8  regime=Low Vol
+  SELL @ Rs.763.40  inv=-9  regime=Low Vol
+[15:10:58]  S=Rs.763.20  bid=Rs.763.00  ask=Rs.763.40  regime=Low Vol  delta=Rs.0.3961  sigma=0.00041  T=0.05  inv=-9  costs=Rs.65.38  Net P&L=Rs.+91.75
+[15:11:28] Price: Rs.763.42  buffer=476
+  BUY  @ Rs.763.23  inv=-8  regime=Low Vol
+[15:11:28]  S=Rs.763.42  bid=Rs.763.23  ask=Rs.763.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00042  T=0.05  inv=-9  costs=Rs.65.40  Net P&L=Rs.+89.90
+[15:11:58] Price: Rs.763.42  buffer=477
+  BUY  @ Rs.763.23  inv=-7  regime=Low Vol
+  SELL @ Rs.763.62  inv=-8  regime=Low Vol
+[15:11:58]  S=Rs.763.42  bid=Rs.763.23  ask=Rs.763.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00042  T=0.05  inv=-8  costs=Rs.65.65  Net P&L=Rs.+90.05
+[15:12:28] Price: Rs.762.52  buffer=478
+  SELL @ Rs.762.72  inv=-9  regime=Low Vol
+[15:12:28]  S=Rs.762.52  bid=Rs.762.33  ask=Rs.762.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00046  T=0.05  inv=-8  costs=Rs.65.86  Net P&L=Rs.+97.23
+[15:12:59] Price: Rs.762.52  buffer=479
+  BUY  @ Rs.762.33  inv=-8  regime=Low Vol
+  SELL @ Rs.762.72  inv=-9  regime=Low Vol
+[15:12:59]  S=Rs.762.52  bid=Rs.762.33  ask=Rs.762.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00046  T=0.05  inv=-9  costs=Rs.66.11  Net P&L=Rs.+97.38
+[15:13:29] Price: Rs.762.90  buffer=480
+  BUY  @ Rs.762.70  inv=-8  regime=Low Vol
+[15:13:29]  S=Rs.762.90  bid=Rs.762.70  ask=Rs.763.10  regime=Low Vol  delta=Rs.0.3961  sigma=0.00048  T=0.05  inv=-9  costs=Rs.66.13  Net P&L=Rs.+94.18
+[15:13:59] Price: Rs.762.90  buffer=481
+  BUY  @ Rs.762.70  inv=-7  regime=Low Vol
+  SELL @ Rs.763.10  inv=-8  regime=Low Vol
+[15:13:59]  S=Rs.762.90  bid=Rs.762.70  ask=Rs.763.10  regime=Low Vol  delta=Rs.0.3961  sigma=0.00048  T=0.05  inv=-8  costs=Rs.66.38  Net P&L=Rs.+94.33
+[15:14:29] Price: Rs.762.88  buffer=482
+  BUY  @ Rs.762.68  inv=-7  regime=Low Vol
+  SELL @ Rs.763.07  inv=-8  regime=Low Vol
+[15:14:29]  S=Rs.762.88  bid=Rs.762.68  ask=Rs.763.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00048  T=0.05  inv=-8  costs=Rs.66.62  Net P&L=Rs.+94.68
+[15:14:59] Price: Rs.762.88  buffer=483
+  BUY  @ Rs.762.68  inv=-7  regime=Low Vol
+  SELL @ Rs.763.07  inv=-8  regime=Low Vol
+[15:14:59]  S=Rs.762.88  bid=Rs.762.68  ask=Rs.763.07  regime=Low Vol  delta=Rs.0.3961  sigma=0.00047  T=0.05  inv=-8  costs=Rs.66.86  Net P&L=Rs.+94.84
+[15:15:29] Price: Rs.763.07  buffer=484
+  BUY  @ Rs.762.88  inv=-7  regime=Low Vol
+[15:15:29]  S=Rs.763.07  bid=Rs.762.88  ask=Rs.763.27  regime=Low Vol  delta=Rs.0.3961  sigma=0.00048  T=0.05  inv=-8  costs=Rs.66.89  Net P&L=Rs.+93.41
+[15:15:59] Price: Rs.763.07  buffer=485
+  BUY  @ Rs.762.88  inv=-6  regime=Low Vol
+  SELL @ Rs.763.27  inv=-7  regime=Low Vol
+[15:15:59]  S=Rs.763.07  bid=Rs.762.88  ask=Rs.763.27  regime=Low Vol  delta=Rs.0.3961  sigma=0.00044  T=0.05  inv=-7  costs=Rs.67.13  Net P&L=Rs.+93.56
+[15:16:30] Price: Rs.763.65  buffer=486
+  BUY  @ Rs.763.45  inv=-6  regime=Low Vol
+[15:16:30]  S=Rs.763.65  bid=Rs.763.45  ask=Rs.763.85  regime=Low Vol  delta=Rs.0.3961  sigma=0.00047  T=0.05  inv=-7  costs=Rs.67.16  Net P&L=Rs.+89.71
+[15:17:00] Price: Rs.763.65  buffer=487
+  BUY  @ Rs.763.45  inv=-5  regime=Low Vol
+  SELL @ Rs.763.85  inv=-6  regime=Low Vol
+[15:17:00]  S=Rs.763.65  bid=Rs.763.45  ask=Rs.763.85  regime=Low Vol  delta=Rs.0.3961  sigma=0.00041  T=0.05  inv=-6  costs=Rs.67.40  Net P&L=Rs.+89.86
+[15:17:30] Price: Rs.763.48  buffer=488
+  SELL @ Rs.763.67  inv=-7  regime=Low Vol
+[15:17:30]  S=Rs.763.48  bid=Rs.763.28  ask=Rs.763.67  regime=Low Vol  delta=Rs.0.3961  sigma=0.00041  T=0.05  inv=-6  costs=Rs.67.62  Net P&L=Rs.+90.89
+[15:18:00] Price: Rs.763.48  buffer=489
+  BUY  @ Rs.763.28  inv=-6  regime=Low Vol
+  SELL @ Rs.763.67  inv=-7  regime=Low Vol
+[15:18:00]  S=Rs.763.48  bid=Rs.763.28  ask=Rs.763.67  regime=Low Vol  delta=Rs.0.3961  sigma=0.00041  T=0.05  inv=-7  costs=Rs.67.87  Net P&L=Rs.+91.04
+[15:18:30] Price: Rs.763.43  buffer=490
+  BUY  @ Rs.763.23  inv=-6  regime=Low Vol
+  SELL @ Rs.763.62  inv=-7  regime=Low Vol
+[15:18:30]  S=Rs.763.43  bid=Rs.763.23  ask=Rs.763.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00041  T=0.05  inv=-7  costs=Rs.68.11  Net P&L=Rs.+91.55
+[15:19:00] Price: Rs.763.43  buffer=491
+  BUY  @ Rs.763.23  inv=-6  regime=Low Vol
+  SELL @ Rs.763.62  inv=-7  regime=Low Vol
+[15:19:00]  S=Rs.763.43  bid=Rs.763.23  ask=Rs.763.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00040  T=0.05  inv=-7  costs=Rs.68.35  Net P&L=Rs.+91.70
+[15:19:31] Price: Rs.763.45  buffer=492
+  BUY  @ Rs.763.25  inv=-6  regime=Low Vol
+  SELL @ Rs.763.65  inv=-7  regime=Low Vol
+[15:19:31]  S=Rs.763.45  bid=Rs.763.25  ask=Rs.763.65  regime=Low Vol  delta=Rs.0.3961  sigma=0.00040  T=0.05  inv=-7  costs=Rs.68.60  Net P&L=Rs.+91.68
+[15:20:01] Price: Rs.763.45  buffer=493
+  BUY  @ Rs.763.25  inv=-6  regime=Low Vol
+  SELL @ Rs.763.65  inv=-7  regime=Low Vol
+[15:20:01]  S=Rs.763.45  bid=Rs.763.25  ask=Rs.763.65  regime=Low Vol  delta=Rs.0.3961  sigma=0.00038  T=0.05  inv=-7  costs=Rs.68.84  Net P&L=Rs.+91.83
+[15:20:31] Price: Rs.763.15  buffer=494
+  SELL @ Rs.763.35  inv=-8  regime=Low Vol
+[15:20:31]  S=Rs.763.15  bid=Rs.762.95  ask=Rs.763.35  regime=Low Vol  delta=Rs.0.3961  sigma=0.00038  T=0.05  inv=-7  costs=Rs.69.06  Net P&L=Rs.+93.91
+[15:21:01] Price: Rs.763.15  buffer=495
+  BUY  @ Rs.762.95  inv=-7  regime=Low Vol
+  SELL @ Rs.763.35  inv=-8  regime=Low Vol
+[15:21:01]  S=Rs.763.15  bid=Rs.762.95  ask=Rs.763.35  regime=Low Vol  delta=Rs.0.3961  sigma=0.00035  T=0.05  inv=-8  costs=Rs.69.30  Net P&L=Rs.+94.06
+[15:21:31] Price: Rs.762.55  buffer=496
+  SELL @ Rs.762.75  inv=-9  regime=Low Vol
+[15:21:31]  S=Rs.762.55  bid=Rs.762.35  ask=Rs.762.75  regime=Low Vol  delta=Rs.0.3961  sigma=0.00038  T=0.05  inv=-8  costs=Rs.69.52  Net P&L=Rs.+98.84
+[15:22:01] Price: Rs.762.55  buffer=497
+  BUY  @ Rs.762.35  inv=-8  regime=Low Vol
+  SELL @ Rs.762.75  inv=-9  regime=Low Vol
+[15:22:01]  S=Rs.762.55  bid=Rs.762.35  ask=Rs.762.75  regime=Low Vol  delta=Rs.0.3961  sigma=0.00034  T=0.05  inv=-9  costs=Rs.69.76  Net P&L=Rs.+99.00
+[15:22:32] Price: Rs.762.85  buffer=498
+  BUY  @ Rs.762.65  inv=-8  regime=Low Vol
+[15:22:32]  S=Rs.762.85  bid=Rs.762.65  ask=Rs.763.05  regime=Low Vol  delta=Rs.0.3961  sigma=0.00035  T=0.05  inv=-9  costs=Rs.69.79  Net P&L=Rs.+96.47
+[15:23:02] Price: Rs.762.80  buffer=499
+  SELL @ Rs.763.00  inv=-9  regime=Low Vol
+[15:23:02]  S=Rs.762.80  bid=Rs.762.60  ask=Rs.763.00  regime=Low Vol  delta=Rs.0.3961  sigma=0.00035  T=0.05  inv=-8  costs=Rs.70.00  Net P&L=Rs.+96.85
+[15:23:32] Price: Rs.762.80  buffer=500
+  BUY  @ Rs.762.60  inv=-8  regime=Low Vol
+  SELL @ Rs.763.00  inv=-9  regime=Low Vol
+[15:23:32]  S=Rs.762.80  bid=Rs.762.60  ask=Rs.763.00  regime=Low Vol  delta=Rs.0.3961  sigma=0.00035  T=0.05  inv=-9  costs=Rs.70.25  Net P&L=Rs.+97.00
+[15:24:02] Price: Rs.762.80  buffer=501
+  BUY  @ Rs.762.60  inv=-8  regime=Low Vol
+  SELL @ Rs.763.00  inv=-9  regime=Low Vol
+[15:24:02]  S=Rs.762.80  bid=Rs.762.60  ask=Rs.763.00  regime=Low Vol  delta=Rs.0.3961  sigma=0.00034  T=0.05  inv=-9  costs=Rs.70.49  Net P&L=Rs.+97.15
+[15:24:33] Price: Rs.763.58  buffer=502
+  BUY  @ Rs.763.38  inv=-8  regime=Low Vol
+[15:24:33]  S=Rs.763.58  bid=Rs.763.38  ask=Rs.763.77  regime=Low Vol  delta=Rs.0.3961  sigma=0.00039  T=0.05  inv=-9  costs=Rs.70.52  Net P&L=Rs.+90.35
+[15:25:03] Price: Rs.763.58  buffer=503
+  BUY  @ Rs.763.38  inv=-7  regime=Low Vol
+  SELL @ Rs.763.77  inv=-8  regime=Low Vol
+
+[15:25:03] 3:25 PM — Flattening position...
+  Position flattened. inv=0
+[15:25:03]  S=Rs.763.58  bid=Rs.763.38  ask=Rs.763.77  regime=Low Vol  delta=Rs.0.3961  sigma=0.00039  T=0.05  inv=-8  costs=Rs.70.97  Net P&L=Rs.+90.29
+[15:25:33] Price: Rs.764.75  buffer=504
+  BUY  @ Rs.764.55  inv=+1  regime=Low Vol
+
+[15:25:33] 3:25 PM — Flattening position...
+  Position flattened. inv=0
+[15:25:33]  S=Rs.764.75  bid=Rs.764.55  ask=Rs.764.95  regime=Low Vol  delta=Rs.0.3961  sigma=0.00048  T=0.05  inv=+0  costs=Rs.71.22  Net P&L=Rs.+90.25
+[15:26:03] Price: Rs.764.35  buffer=505
+  BUY  @ Rs.764.15  inv=+1  regime=Low Vol
+  SELL @ Rs.764.55  inv=+0  regime=Low Vol
+[15:26:03]  S=Rs.764.35  bid=Rs.764.15  ask=Rs.764.55  regime=Low Vol  delta=Rs.0.3961  sigma=0.00049  T=0.05  inv=+0  costs=Rs.71.46  Net P&L=Rs.+90.40
+[15:26:34] Price: Rs.764.35  buffer=506
+  BUY  @ Rs.764.15  inv=+1  regime=Low Vol
+  SELL @ Rs.764.55  inv=+0  regime=Low Vol
+[15:26:34]  S=Rs.764.35  bid=Rs.764.15  ask=Rs.764.55  regime=Low Vol  delta=Rs.0.3961  sigma=0.00049  T=0.05  inv=+0  costs=Rs.71.70  Net P&L=Rs.+90.55
+[15:27:04] Price: Rs.764.53  buffer=507
+  BUY  @ Rs.764.33  inv=+1  regime=Low Vol
+  SELL @ Rs.764.72  inv=+0  regime=Low Vol
+[15:27:04]  S=Rs.764.53  bid=Rs.764.33  ask=Rs.764.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00043  T=0.05  inv=+0  costs=Rs.71.95  Net P&L=Rs.+90.70
+[15:27:34] Price: Rs.764.53  buffer=508
+  BUY  @ Rs.764.33  inv=+1  regime=Low Vol
+  SELL @ Rs.764.72  inv=+0  regime=Low Vol
+[15:27:34]  S=Rs.764.53  bid=Rs.764.33  ask=Rs.764.72  regime=Low Vol  delta=Rs.0.3961  sigma=0.00043  T=0.05  inv=+0  costs=Rs.72.19  Net P&L=Rs.+90.85
+[15:28:04] Price: Rs.764.42  buffer=509
+  BUY  @ Rs.764.23  inv=+1  regime=Low Vol
+  SELL @ Rs.764.62  inv=+0  regime=Low Vol
+[15:28:04]  S=Rs.764.42  bid=Rs.764.23  ask=Rs.764.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00042  T=0.05  inv=+0  costs=Rs.72.43  Net P&L=Rs.+91.01
+[15:28:34] Price: Rs.764.42  buffer=510
+  BUY  @ Rs.764.23  inv=+1  regime=Low Vol
+  SELL @ Rs.764.62  inv=+0  regime=Low Vol
+[15:28:34]  S=Rs.764.42  bid=Rs.764.23  ask=Rs.764.62  regime=Low Vol  delta=Rs.0.3961  sigma=0.00042  T=0.05  inv=+0  costs=Rs.72.68  Net P&L=Rs.+91.16
+[15:29:04] Price: Rs.765.08  buffer=511
+  BUY  @ Rs.764.88  inv=+1  regime=Low Vol
+
+[15:29:04] 3:25 PM — Flattening position...
+  Position flattened. inv=0
+[15:29:04]  S=Rs.765.08  bid=Rs.764.88  ask=Rs.765.27  regime=Low Vol  delta=Rs.0.3961  sigma=0.00045  T=0.05  inv=+0  costs=Rs.72.92  Net P&L=Rs.+91.11
+[15:29:35] Price: Rs.765.08  buffer=512
+  BUY  @ Rs.764.88  inv=+1  regime=Low Vol
+  SELL @ Rs.765.27  inv=+0  regime=Low Vol
+[15:29:35]  S=Rs.765.08  bid=Rs.764.88  ask=Rs.765.27  regime=Low Vol  delta=Rs.0.3961  sigma=0.00045  T=0.05  inv=+0  costs=Rs.73.17  Net P&L=Rs.+91.26
+[15:30:05] Price: Rs.765.08  buffer=513
+  BUY  @ Rs.764.88  inv=+1  regime=Low Vol
+  SELL @ Rs.765.27  inv=+0  regime=Low Vol
+[15:30:05]  S=Rs.765.08  bid=Rs.764.88  ask=Rs.765.27  regime=Low Vol  delta=Rs.0.3961  sigma=0.00045  T=0.05  inv=+0  costs=Rs.73.41  Net P&L=Rs.+91.42
+[15:30:35] Price: Rs.765.08  buffer=514
+  BUY  @ Rs.764.88  inv=+1  regime=Low Vol
+  SELL @ Rs.765.27  inv=+0  regime=Low Vol
+[15:30:35]  S=Rs.765.08  bid=Rs.764.88  ask=Rs.765.27  regime=Low Vol  delta=Rs.0.3961  sigma=0.00045  T=0.05  inv=+0  costs=Rs.73.66  Net P&L=Rs.+91.57
+
+
+=======================================================
+   SESSION SUMMARY — HMM REGIME ADAPTIVE TRADER
+=======================================================
+   Total Trades     : 600
+   Inventory        : +0 shares
+   Transaction Costs: Rs.73.66
+   Gross P&L        : Rs.+165.22
+   Net P&L          : Rs.+91.57
+=======================================================
+
